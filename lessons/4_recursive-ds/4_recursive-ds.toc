@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Trees}{3}{0}{1}
+\beamer@sectionintoc {2}{Binary Search Trees}{15}{0}{2}
+\beamer@sectionintoc {3}{Graphs}{19}{0}{3}
+\beamer@sectionintoc {4}{Nearest Neighour Problem}{36}{0}{4}
+\beamer@sectionintoc {5}{Recommended Problems and References}{40}{0}{5}

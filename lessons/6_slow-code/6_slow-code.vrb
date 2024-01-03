@@ -1,0 +1,14 @@
+\frametitle{Parallelization}
+\protect\hypertarget{parallelization-1}{}
+\begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{import}\NormalTok{ numpy}
+
+\KeywordTok{def}\NormalTok{ add\_one(n, x):}
+\NormalTok{  y }\OperatorTok{=}\NormalTok{ np.zeros(n)}
+  \ControlFlowTok{for}\NormalTok{ i }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(n):}
+\NormalTok{    y[i] }\OperatorTok{=}\NormalTok{ x[i] }\OperatorTok{+} \DecValTok{1}
+
+  \ControlFlowTok{return}\NormalTok{ y}
+\end{Highlighting}
+\end{Shaded}
