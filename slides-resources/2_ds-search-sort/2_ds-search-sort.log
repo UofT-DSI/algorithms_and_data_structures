@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  2 JAN 2024 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**2_ds-search-sort.tex
+**2_ds-search-sort
 (./2_ds-search-sort.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -1721,16 +1721,28 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
 [16
 
  <./images/insertion-sort.png>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 589--589
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 587--587
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 589--589
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 587--587
  [][][][]  
  []
 
+\openout4 = `2_ds-search-sort.vrb'.
 
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 608--608
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 608--608
+ [][][][]  
+ []
+
+(./2_ds-search-sort.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1743,12 +1755,12 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
 [17
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 615--615
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 612--612
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 615--615
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 612--612
  [][][][]  
  []
 
@@ -1765,28 +1777,16 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
 [18
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 617--617
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 638--638
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 617--617
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 638--638
  [][][][]  
  []
 
-\openout4 = `2_ds-search-sort.vrb'.
 
-
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 655--655
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 655--655
- [][][][]  
- []
-
-(./2_ds-search-sort.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1799,50 +1799,24 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
 [19
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 698--698
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 640--640
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 698--698
- [][][][]  
- []
-
-
-Overfull \vbox (28.73784pt too high) detected at line 698
- []
-
-
-Overfull \hbox (0.61255pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-
-Overfull \hbox (19.67068pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[20
-
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 700--700
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 700--700
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 640--640
  [][][][]  
  []
 
 \openout4 = `2_ds-search-sort.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 731--731
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 678--678
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 731--731
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 678--678
  [][][][]  
  []
 
@@ -1856,16 +1830,20 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[21
+[20
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 743--743
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 721--721
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 743--743
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 721--721
  [][][][]  
+ []
+
+
+Overfull \vbox (28.73784pt too high) detected at line 721
  []
 
 
@@ -1878,15 +1856,49 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[22
+[21
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 747--747
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 723--723
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 747--747
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 723--723
+ [][][][]  
+ []
+
+\openout4 = `2_ds-search-sort.vrb'.
+
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 754--754
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 754--754
+ [][][][]  
+ []
+
+(./2_ds-search-sort.vrb)
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[22
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 766--766
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 766--766
  [][][][]  
  []
 
@@ -1903,24 +1915,46 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
 [23
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 749--749
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 770--770
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 749--749
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 770--770
+ [][][][]  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[24
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 772--772
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 772--772
  [][][][]  
  []
 
 \openout4 = `2_ds-search-sort.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 780--780
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 803--803
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 780--780
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 803--803
  [][][][]  
  []
 
@@ -1934,15 +1968,15 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[24
+[25
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 796--796
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 819--819
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
-Overfull \hbox (19.67068pt too wide) in paragraph at lines 796--796
+Overfull \hbox (19.67068pt too wide) in paragraph at lines 819--819
  [][][][]  
  []
 
@@ -1956,7 +1990,7 @@ Overfull \hbox (19.67068pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[25
+[26
 
 ]
 \tf@nav=\write6
@@ -1975,13 +2009,13 @@ L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33443 strings out of 474181
- 683454 string characters out of 5745946
+ 33574 strings out of 474181
+ 687130 string characters out of 5745946
  1937457 words of memory out of 5000000
- 54877 multiletter control sequences out of 15000+600000
- 648621 words of font info for 168 fonts, out of 8000000 for 9000
+ 54998 multiletter control sequences out of 15000+600000
+ 651637 words of font info for 171 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,1013b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1009b,649s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texm
@@ -1991,10 +2025,10 @@ public/lm/lmsso10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm
 /lmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7
 .pfb>
-Output written on 2_ds-search-sort.pdf (25 pages, 242770 bytes).
+Output written on 2_ds-search-sort.pdf (26 pages, 248523 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 500000)
- 53342 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 55432 words of extra memory for PDF output out of 61914 (max. 10000000)
 

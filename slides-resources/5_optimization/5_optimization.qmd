@@ -317,6 +317,22 @@ print("Maximum value:", max_value)
 print("Selected items:", selected_items)
 ```
 
+## Live Coding
+
+Let a substring be *upper-lower* if for every letter of the alphabet that the string contains, it appears both in uppercase and lowercase. For example, `aaA` is upper-lower because it has both "A" and "a." `aAbb` is not upper-lower because it lacks an upper case "B."
+
+Given string, return the longest substring that is *upper-lower.*
+
+### Example
+
+```{python}
+#| eval: false
+# INPUT
+string = "AqeQEfa"
+# OUTPUT
+"qeQE"
+```
+
 # Recommended Problems and References
 
 ## Recommended Problems and Readings

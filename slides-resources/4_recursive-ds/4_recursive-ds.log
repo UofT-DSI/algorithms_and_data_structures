@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  9 JAN 2024 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**4_recursive-ds.tex
+**4_recursive-ds
 (./4_recursive-ds.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -1589,8 +1589,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [18
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 593--593
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 597--597
  [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+<images/insertion.png, id=184, 635.37375pt x 344.28625pt>
+File: images/insertion.png Graphic file (type png)
+<use images/insertion.png>
+Package pdftex.def Info: images/insertion.png  used on input line 597.
+(pdftex.def)             Requested size: 347.05228pt x 188.05518pt.
+
+Overfull \hbox (4.61696pt too wide) in paragraph at lines 597--597
+[][]  
  []
 
 
@@ -1600,16 +1610,11 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [19
 
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 625--625
+ <./images/insertion.png (PNG copy)>]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 600--600
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-<images/graph-anat.png, id=194, 604.2575pt x 426.59375pt>
-File: images/graph-anat.png Graphic file (type png)
-<use images/graph-anat.png>
-Package pdftex.def Info: images/graph-anat.png  used on input line 625.
-(pdftex.def)             Requested size: 117.43788pt x 82.9088pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1617,16 +1622,16 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [20
 
- <./images/graph-anat.png>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 655--655
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 632--632
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-<images/graph-weight.png, id=204, 386.44376pt x 349.305pt>
-File: images/graph-weight.png Graphic file (type png)
-<use images/graph-weight.png>
-Package pdftex.def Info: images/graph-weight.png  used on input line 655.
-(pdftex.def)             Requested size: 136.97327pt x 123.80959pt.
+<images/graph-anat.png, id=203, 604.2575pt x 426.59375pt>
+File: images/graph-anat.png Graphic file (type png)
+<use images/graph-anat.png>
+Package pdftex.def Info: images/graph-anat.png  used on input line 632.
+(pdftex.def)             Requested size: 117.43788pt x 82.9088pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1634,11 +1639,16 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [21
 
- <./images/graph-weight.png>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 690--690
+ <./images/graph-anat.png>]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 662--662
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+<images/graph-weight.png, id=213, 386.44376pt x 349.305pt>
+File: images/graph-weight.png Graphic file (type png)
+<use images/graph-weight.png>
+Package pdftex.def Info: images/graph-weight.png  used on input line 662.
+(pdftex.def)             Requested size: 136.97327pt x 123.80959pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1646,16 +1656,11 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [22
 
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 712--712
+ <./images/graph-weight.png>]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 697--697
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-<images/graph-bfs.png, id=222, 328.22626pt x 442.65375pt>
-File: images/graph-bfs.png Graphic file (type png)
-<use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 712.
-(pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1663,14 +1668,15 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [23
 
- <./images/graph-bfs.png>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 734--734
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 719--719
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+<images/graph-bfs.png, id=231, 328.22626pt x 442.65375pt>
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 734.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 719.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1679,14 +1685,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [24
 
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 759--759
+ <./images/graph-bfs.png>]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 741--741
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 759.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 741.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1696,13 +1702,13 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [25
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 782--782
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 766--766
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 782.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 766.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1712,13 +1718,13 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [26
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 804--804
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 789--789
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 804.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 789.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1728,13 +1734,13 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [27
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 827--827
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 811--811
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 827.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 811.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1744,13 +1750,13 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [28
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 849--849
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 834--834
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 File: images/graph-bfs.png Graphic file (type png)
 <use images/graph-bfs.png>
-Package pdftex.def Info: images/graph-bfs.png  used on input line 849.
+Package pdftex.def Info: images/graph-bfs.png  used on input line 834.
 (pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1760,10 +1766,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [29
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 861--861
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 856--856
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+File: images/graph-bfs.png Graphic file (type png)
+<use images/graph-bfs.png>
+Package pdftex.def Info: images/graph-bfs.png  used on input line 856.
+(pdftex.def)             Requested size: 136.97261pt x 184.72453pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1772,14 +1782,26 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [30
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 863--863
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 868--868
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[31
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 870--870
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `4_recursive-ds.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 885--885
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 892--892
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1788,17 +1810,17 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[31
+[32
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 887--887
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 894--894
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `4_recursive-ds.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 909--909
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 916--916
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1813,36 +1835,17 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[32
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 911--911
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-\openout4 = `4_recursive-ds.vrb'.
-
-
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 931--931
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-(./4_recursive-ds.vrb)
-Overfull \hbox (0.61255pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
 [33
 
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 933--933
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 918--918
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `4_recursive-ds.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 958--958
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 938--938
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1854,14 +1857,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [34
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 960--960
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 940--940
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `4_recursive-ds.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 971--971
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 965--965
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1873,11 +1876,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [35
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 974--974
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 967--967
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+\openout4 = `4_recursive-ds.vrb'.
 
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 978--978
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+(./4_recursive-ds.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1885,7 +1895,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [36
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 994--994
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 981--981
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1897,7 +1907,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [37
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1029--1029
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1001--1001
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1909,7 +1919,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [38
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1048--1048
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1036--1036
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1921,7 +1931,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [39
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1052--1052
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1055--1055
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1933,7 +1943,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [40
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1074--1074
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1059--1059
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1945,14 +1955,26 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [41
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1076--1076
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1081--1081
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[42
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1083--1083
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `4_recursive-ds.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1107--1107
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1114--1114
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1961,10 +1983,10 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[42
+[43
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1124--1124
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1131--1131
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1973,7 +1995,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[43
+[44
 
 ]
 \tf@nav=\write6
@@ -1992,13 +2014,13 @@ L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33537 strings out of 474181
- 685641 string characters out of 5745946
+ 33547 strings out of 474181
+ 685859 string characters out of 5745946
  1937457 words of memory out of 5000000
- 54937 multiletter control sequences out of 15000+600000
+ 54944 multiletter control sequences out of 15000+600000
  628585 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,1011b,860s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1007b,860s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texm
@@ -2007,10 +2029,10 @@ nts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
 public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symb
 ols/msam7.pfb>
-Output written on 4_recursive-ds.pdf (43 pages, 295742 bytes).
+Output written on 4_recursive-ds.pdf (44 pages, 311823 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
- 129 named destinations out of 1000 (max. 500000)
- 41079 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 504 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 41084 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -197,6 +197,22 @@ author: Salaar Liaqat
 :::
 :::
 
+## Live Coding:
+
+The *h-index* is defined by Wikipedia as the maximum value of $h$ such that the given researcher has published at least $h$ papers that have each been cited at least $h$ times.
+
+Given a list of integers representing a researcher. Each index is their $ith$ publication and the value at the $ith$ index is the number of citation. Calculate the h-index of that researcher.
+
+### Example
+
+```{python}
+#| eval: false
+# INPUT
+lst = [2,2,5,6]
+# OUTPUT
+2
+```
+
 # Hash map, hash table (Python dictionary), hash functions
 
 ## Motivating Example

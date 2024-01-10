@@ -220,6 +220,22 @@ def recursive(n):
 
 -   2 minutes: to find the key in nested boxes, what is the memory complexity of the recursive approach versus the loop approach?
 
+## Live Coding
+
+Given an list of positive integers and an integer x, we want to find all unique combinations in the list where the sum is equal to x. A number in the list can be used multiple times.
+
+### Example
+
+```{python}
+#| eval: false
+# INPUT
+lst = [1,2,5,6]
+x = 6
+# OUTPUT
+[1, 5]
+[6]
+```
+
 # Mergesort
 
 ## Divide and Conquer Algorithms

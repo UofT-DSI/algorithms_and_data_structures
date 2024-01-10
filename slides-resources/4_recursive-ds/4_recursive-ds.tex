@@ -217,7 +217,7 @@
 
 \begin{document}
 \frame{\titlepage}
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, boxrule=0pt, interior hidden, frame hidden, borderline west={3pt}{0pt}{shadecolor}, sharp corners, breakable]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}, breakable, enhanced, sharp corners, frame hidden]}{\end{tcolorbox}}\fi
 
 \begin{frame}{Outline}
 \protect\hypertarget{outline}{}
@@ -587,6 +587,13 @@ Result: 1 2 3 4 5 6
     You may also be interested in B-trees, which are used in databases
   \end{itemize}
 \end{itemize}
+\end{frame}
+
+\begin{frame}{Live Coding}
+\protect\hypertarget{live-coding}{}
+Given a BST, insert a new node in this BST.
+
+\includegraphics[width=4.80208in,height=\textheight]{images/insertion.png}
 \end{frame}
 
 \hypertarget{graphs}{%
@@ -1082,7 +1089,7 @@ References}\label{recommended-problems-and-references}}
 \item
   Implement a function that find an element in a BST and deletes it. The
   descendants of the deleted node are given to the deleted node's
-  parent. (Hard)
+  parent.
 \item
   Using the \texttt{graph} class from the slides, implement BST search
   such that it stops and tell you the distance the node is from the

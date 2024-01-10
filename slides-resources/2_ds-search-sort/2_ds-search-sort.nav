@@ -39,32 +39,34 @@
 \headcommand {\beamer@framepages {15}{15}}
 \headcommand {\slideentry {3}{0}{3}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@sectionpages {14}{16}}
-\headcommand {\beamer@subsectionpages {14}{16}}
-\headcommand {\sectionentry {4}{Hash map, hash table (Python dictionary), hash functions}{17}{Hash map, hash table (Python dictionary), hash functions}{0}}
-\headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
+\headcommand {\slideentry {3}{0}{4}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {4}{0}{2}{18/18}{}{0}}
+\headcommand {\beamer@sectionpages {14}{17}}
+\headcommand {\beamer@subsectionpages {14}{17}}
+\headcommand {\sectionentry {4}{Hash map, hash table (Python dictionary), hash functions}{18}{Hash map, hash table (Python dictionary), hash functions}{0}}
+\headcommand {\slideentry {4}{0}{1}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {4}{0}{3}{19/19}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{19/19}{}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {4}{0}{4}{20/20}{}{0}}
+\headcommand {\slideentry {4}{0}{3}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {4}{0}{5}{21/21}{}{0}}
+\headcommand {\slideentry {4}{0}{4}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {4}{0}{6}{22/22}{}{0}}
+\headcommand {\slideentry {4}{0}{5}{22/22}{}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@sectionpages {17}{22}}
-\headcommand {\beamer@subsectionpages {17}{22}}
-\headcommand {\sectionentry {5}{Recommended Problems and References}{23}{Recommended Problems and References}{0}}
-\headcommand {\slideentry {5}{0}{1}{23/23}{}{0}}
+\headcommand {\slideentry {4}{0}{6}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {5}{0}{2}{24/24}{}{0}}
+\headcommand {\beamer@sectionpages {18}{23}}
+\headcommand {\beamer@subsectionpages {18}{23}}
+\headcommand {\sectionentry {5}{Recommended Problems and References}{24}{Recommended Problems and References}{0}}
+\headcommand {\slideentry {5}{0}{1}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {5}{0}{3}{25/25}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\beamer@partpages {1}{25}}
-\headcommand {\beamer@subsectionpages {23}{25}}
-\headcommand {\beamer@sectionpages {23}{25}}
-\headcommand {\beamer@documentpages {25}}
-\headcommand {\gdef \inserttotalframenumber {25}}
+\headcommand {\slideentry {5}{0}{3}{26/26}{}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@partpages {1}{26}}
+\headcommand {\beamer@subsectionpages {24}{26}}
+\headcommand {\beamer@sectionpages {24}{26}}
+\headcommand {\beamer@documentpages {26}}
+\headcommand {\gdef \inserttotalframenumber {26}}

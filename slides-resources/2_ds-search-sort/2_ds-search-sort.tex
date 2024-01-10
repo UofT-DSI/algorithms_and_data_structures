@@ -217,7 +217,7 @@
 
 \begin{document}
 \frame{\titlepage}
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, boxrule=0pt, interior hidden, borderline west={3pt}{0pt}{shadecolor}, breakable, enhanced, frame hidden]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, borderline west={3pt}{0pt}{shadecolor}, frame hidden, boxrule=0pt, breakable, sharp corners, enhanced]}{\end{tcolorbox}}\fi
 
 \begin{frame}{Outline}
 \protect\hypertarget{outline}{}
@@ -584,6 +584,29 @@ Structures}\label{array-based-data-structures}}
 \end{columns}
 \end{frame}
 
+\begin{frame}[fragile]{Live Coding:}
+\protect\hypertarget{live-coding}{}
+The \emph{h-index} is defined by Wikipedia as the maximum value of \(h\)
+such that the given researcher has published at least \(h\) papers that
+have each been cited at least \(h\) times.
+
+Given a list of integers representing a researcher. Each index is their
+\(ith\) publication and the value at the \(ith\) index is the number of
+citation. Calculate the h-index of that researcher.
+
+\begin{block}{Example}
+\protect\hypertarget{example}{}
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# INPUT}
+\NormalTok{lst }\OperatorTok{=}\NormalTok{ [}\DecValTok{2}\NormalTok{,}\DecValTok{2}\NormalTok{,}\DecValTok{5}\NormalTok{,}\DecValTok{6}\NormalTok{]}
+\CommentTok{\# OUTPUT}
+\DecValTok{2}
+\end{Highlighting}
+\end{Shaded}
+\end{block}
+\end{frame}
+
 \hypertarget{hash-map-hash-table-python-dictionary-hash-functions}{%
 \section{Hash map, hash table (Python dictionary), hash
 functions}\label{hash-map-hash-table-python-dictionary-hash-functions}}
@@ -635,7 +658,7 @@ functions}\label{hash-map-hash-table-python-dictionary-hash-functions}}
 \end{Shaded}
 
 \begin{verbatim}
--805064901731795821
+-4234464436397453779
 \end{verbatim}
 
 \begin{itemize}

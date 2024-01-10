@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  2 JAN 2024 19:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**5_optimization.tex
+**5_optimization
 (./5_optimization.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -1695,11 +1695,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [25
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 704--704
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 702--702
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+\openout4 = `5_optimization.vrb'.
 
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 723--723
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+(./5_optimization.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1719,14 +1726,26 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [27
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 729--729
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 750--750
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[28
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 752--752
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `5_optimization.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 743--743
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 766--766
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1735,10 +1754,10 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[28
+[29
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 755--755
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 778--778
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1747,7 +1766,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[29
+[30
 
 ]
 \tf@nav=\write6
@@ -1766,13 +1785,13 @@ L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33408 strings out of 474181
- 683381 string characters out of 5745946
+ 33517 strings out of 474181
+ 686394 string characters out of 5745946
  1936457 words of memory out of 5000000
- 54865 multiletter control sequences out of 15000+600000
- 627285 words of font info for 135 fonts, out of 8000000 for 9000
+ 54964 multiletter control sequences out of 15000+600000
+ 630301 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,1011b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1007b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/tex
@@ -1783,10 +1802,10 @@ lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/loca
 l/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/
 2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on 5_optimization.pdf (29 pages, 217839 bytes).
+Output written on 5_optimization.pdf (30 pages, 223179 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 41046 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 43136 words of extra memory for PDF output out of 51595 (max. 10000000)
 

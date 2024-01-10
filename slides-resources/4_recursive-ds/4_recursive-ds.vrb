@@ -7,7 +7,7 @@
 \item
   Implement a function that find an element in a BST and deletes it. The
   descendants of the deleted node are given to the deleted node's
-  parent. (Hard)
+  parent.
 \item
   Using the \texttt{graph} class from the slides, implement BST search
   such that it stops and tell you the distance the node is from the

@@ -261,6 +261,12 @@ Result: 1 2 3 4 5 6
 
     -   You may also be interested in B-trees, which are used in databases
 
+## Live Coding
+
+Given a BST, insert a new node in this BST.
+
+![](images/insertion.png){width="461"}
+
 # Graphs
 
 ## Introduction
@@ -585,17 +591,17 @@ bfs(ex_graph, 1)
 
 -   Implement preorder, postorder, and level order traversal. Determine the time and space complexity in each case
 
--   Implement a function that find an element in a BST and deletes it. The descendants of the deleted node are given to the deleted node's parent. (Hard)
+-   Implement a function that find an element in a BST and deletes it. The descendants of the deleted node are given to the deleted node's parent.
 
 -   Using the `graph` class from the slides, implement BST search such that it stops and tell you the distance the node is from the starting point.
- 
+
     -   For instance, if we searched for 7 in the graph given in the slides, it would return `"Found! Distance 2"`.
 
     -   If we searched for 100 in the graph, it would return `"Not found!"`
 
 -   Implement postorder graph traversal using the `graph` class from the slides.
 
-- Implement a function using recursion to find the sum heterogeneous nested lists such as [[1, [2]], [[[3]]], 4, [[5, 6], [[[7]]]]].
+-   Implement a function using recursion to find the sum heterogeneous nested lists such as \[\[1, \[2\]\], \[\[\[3\]\]\], 4, \[\[5, 6\], \[\[\[7\]\]\]\]\].
 
 ## References
 

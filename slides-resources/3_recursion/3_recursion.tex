@@ -217,7 +217,7 @@
 
 \begin{document}
 \frame{\titlepage}
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[frame hidden, interior hidden, sharp corners, boxrule=0pt, breakable, borderline west={3pt}{0pt}{shadecolor}, enhanced]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[frame hidden, interior hidden, borderline west={3pt}{0pt}{shadecolor}, enhanced, sharp corners, boxrule=0pt, breakable]}{\end{tcolorbox}}\fi
 
 \begin{frame}{Outline}
 \protect\hypertarget{outline}{}
@@ -591,6 +591,27 @@ Recursion}\label{time-and-space-complexity-of-recursion}}
   2 minutes: to find the key in nested boxes, what is the memory
   complexity of the recursive approach versus the loop approach?
 \end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{Live Coding}
+\protect\hypertarget{live-coding}{}
+Given an list of positive integers and an integer x, we want to find all
+unique combinations in the list where the sum is equal to x. A number in
+the list can be used multiple times.
+
+\begin{block}{Example}
+\protect\hypertarget{example}{}
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# INPUT}
+\NormalTok{lst }\OperatorTok{=}\NormalTok{ [}\DecValTok{1}\NormalTok{,}\DecValTok{2}\NormalTok{,}\DecValTok{5}\NormalTok{,}\DecValTok{6}\NormalTok{]}
+\NormalTok{x }\OperatorTok{=} \DecValTok{6}
+\CommentTok{\# OUTPUT}
+\NormalTok{[}\DecValTok{1}\NormalTok{, }\DecValTok{5}\NormalTok{]}
+\NormalTok{[}\DecValTok{6}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+\end{block}
 \end{frame}
 
 \hypertarget{mergesort}{%

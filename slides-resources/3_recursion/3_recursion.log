@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  2 JAN 2024 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**3_recursion.tex
+**3_recursion
 (./3_recursion.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -1628,11 +1628,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [19
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 597--597
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 596--596
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+\openout4 = `3_recursion.vrb'.
 
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 615--615
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+(./3_recursion.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1640,7 +1647,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [20
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 623--623
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 618--618
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1652,18 +1659,11 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [21
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 625--625
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 644--644
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-\openout4 = `3_recursion.vrb'.
 
-
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 651--651
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-(./3_recursion.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1671,14 +1671,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [22
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 653--653
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 646--646
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `3_recursion.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 670--670
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 672--672
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1690,27 +1690,34 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [23
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 698--698
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 674--674
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-<images/merge-sort.png, id=238, 764.8575pt x 681.54625pt>
-File: images/merge-sort.png Graphic file (type png)
-<use images/merge-sort.png>
-Package pdftex.def Info: images/merge-sort.png  used on input line 698.
-(pdftex.def)             Requested size: 171.21019pt x 152.56133pt.
+\openout4 = `3_recursion.vrb'.
 
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 691--691
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+(./3_recursion.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 [24
 
- <./images/merge-sort.png>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 730--730
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 719--719
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
+<images/merge-sort.png, id=262, 764.8575pt x 681.54625pt>
+File: images/merge-sort.png Graphic file (type png)
+<use images/merge-sort.png>
+Package pdftex.def Info: images/merge-sort.png  used on input line 719.
+(pdftex.def)             Requested size: 171.21019pt x 152.56133pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1718,8 +1725,8 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 
 [25
 
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 744--744
+ <./images/merge-sort.png>]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 751--751
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1731,7 +1738,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [26
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 748--748
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 765--765
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1743,14 +1750,26 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [27
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 750--750
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 769--769
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[28
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 771--771
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `3_recursion.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 774--774
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 795--795
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1759,22 +1778,10 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-[28
-
-]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 790--790
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-
-Overfull \hbox (0.61255pt too wide) has occurred while \output is active
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
 [29
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 802--802
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 811--811
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1786,7 +1793,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [30
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 815--815
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 823--823
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1796,6 +1803,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  []
 
 [31
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 836--836
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[32
 
 ]
 \tf@nav=\write6
@@ -1814,13 +1833,13 @@ L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33447 strings out of 474181
- 684246 string characters out of 5745946
+ 33556 strings out of 474181
+ 687253 string characters out of 5745946
  1936457 words of memory out of 5000000
- 54894 multiletter control sequences out of 15000+600000
- 630372 words of font info for 137 fonts, out of 8000000 for 9000
+ 54993 multiletter control sequences out of 15000+600000
+ 633388 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,1008b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1004b,741s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/tex
@@ -1830,10 +1849,10 @@ ts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 m/lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on 3_recursion.pdf (31 pages, 1153647 bytes).
+Output written on 3_recursion.pdf (32 pages, 1158372 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
- 93 named destinations out of 1000 (max. 500000)
- 43122 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 45212 words of extra memory for PDF output out of 51595 (max. 10000000)
 
