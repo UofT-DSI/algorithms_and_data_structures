@@ -27,13 +27,14 @@ Students will know how to...
 ## Logistics
 
 ### Course Contacts
-* Instructor: **Salaar Liaqat** [Pronouns] [degree]. [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
-  * Email etiquette
-  * Other comments 
+* Instructor: **Salaar Liaqat** he/him PhD Candidate, UofT. [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
+  * Please include the keyword "DSI Algorithms" in your emails and use professional language.
 * TA: [**Name**] [pronouns] [degree]. hyperlinkedEmail
 
 ### Delivery instructions
 The workshop will be held over three weeks, three days a week. Two of the three days will be 2-hours long and the last day will be 3-hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
+
+There will be a live coding component in most classes. Students are expected to follow along with the coding and ask questions throughout. 
 
 ### Technology Requirements
 1. Camera is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.

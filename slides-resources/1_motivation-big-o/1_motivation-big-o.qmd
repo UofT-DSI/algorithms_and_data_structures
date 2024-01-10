@@ -23,7 +23,13 @@ author: Salaar Liaqat
 
 ## About Me
 
--   About the instructor
+- PhD candidate in the Department of Computer Science at UofT
+
+- Thesis is on remote patient monitoring using wearables and mobile devices
+
+- Did BSc from Vancouver (SFU) and MSc from UofT
+
+- Co-Founder of a remote patient monitoring startup (Tabiat)
 
 ## Learning Objectives
 

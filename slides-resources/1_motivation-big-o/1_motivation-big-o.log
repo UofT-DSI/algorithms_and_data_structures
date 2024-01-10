@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  2 JAN 2024 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**1_motivation-big-o.tex
+**1_motivation-big-o
 (./1_motivation-big-o.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -1276,7 +1276,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [2
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 243--243
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 249--249
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1288,7 +1288,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [3
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 262--262
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 268--268
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1300,7 +1300,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [4
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 265--265
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 271--271
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1312,14 +1312,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [5
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 267--267
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 273--273
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 301--301
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 307--307
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1385,14 +1385,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [6
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 303--303
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 309--309
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 326--326
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 332--332
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1404,14 +1404,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [7
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 328--328
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 334--334
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 350--350
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 356--356
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1423,14 +1423,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [8
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 352--352
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 358--358
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 366--366
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 372--372
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1442,14 +1442,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [9
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 368--368
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 374--374
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 390--390
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 396--396
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1461,14 +1461,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 392--392
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 398--398
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 411--411
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 417--417
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1480,14 +1480,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [11
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 413--413
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 419--419
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 427--427
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 433--433
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1499,14 +1499,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [12
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 429--429
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 435--435
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 450--450
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 456--456
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1518,7 +1518,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [13
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 454--454
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 460--460
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1530,7 +1530,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [14
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 489--489
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 495--495
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1539,19 +1539,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 489.
+(Font)              <10.95> on input line 495.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 489.
+(Font)              <8> on input line 495.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 489.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 495.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 489.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 495.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 489.
+(Font)              <9> on input line 495.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 489.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 495.
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-489.
+495.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1562,13 +1562,13 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [15
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 516--516
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 522--522
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 516.
+(longtable)                in table 1 on input line 522.
 
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1578,7 +1578,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [16
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 537--537
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 543--543
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1590,18 +1590,18 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [17
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 560--560
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 566--566
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 560.
+(Font)              <10> on input line 566.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 560.
+(Font)              <7> on input line 566.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 560.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 566.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 560.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 566.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
@@ -1610,14 +1610,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [18
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 593--593
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 599--599
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 <images/big-o-viz.jpg, id=200, 1284.8pt x 722.7pt>
 File: images/big-o-viz.jpg Graphic file (type jpg)
 <use images/big-o-viz.jpg>
-Package pdftex.def Info: images/big-o-viz.jpg  used on input line 593.
+Package pdftex.def Info: images/big-o-viz.jpg  used on input line 599.
 (pdftex.def)             Requested size: 136.95663pt x 77.0381pt.
 
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
@@ -1627,14 +1627,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [19
 
  <./images/big-o-viz.jpg>]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 595--595
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 601--601
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 607--607
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 613--613
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1646,14 +1646,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [20
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 609--609
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 615--615
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 637--637
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 643--643
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1665,14 +1665,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [21
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 639--639
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 645--645
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 651--651
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 657--657
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1684,7 +1684,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [22
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 686--686
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 692--692
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1696,7 +1696,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [23
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 690--690
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 696--696
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1708,7 +1708,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [24
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 710--710
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 716--716
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1720,7 +1720,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [25
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 713--713
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 719--719
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1732,7 +1732,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [26
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 737--737
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 743--743
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1744,14 +1744,14 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [27
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 739--739
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 745--745
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
 \openout4 = `1_motivation-big-o.vrb'.
 
 
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 751--751
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 757--757
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1763,7 +1763,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [28
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 755--755
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 761--761
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1775,7 +1775,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [29
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 789--789
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 795--795
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1787,7 +1787,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [30
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 801--801
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 807--807
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1825,7 +1825,7 @@ Here is how much of TeX's memory you used:
  55011 multiletter control sequences out of 15000+600000
  647251 words of font info for 163 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,1015b,650s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,1011b,650s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texm
@@ -1835,7 +1835,7 @@ public/lm/lmsso10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm
 /lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/lo
 cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on 1_motivation-big-o.pdf (31 pages, 295937 bytes).
+Output written on 1_motivation-big-o.pdf (31 pages, 296205 bytes).
 PDF statistics:
  404 PDF objects out of 1000 (max. 8388607)
  287 compressed objects within 3 object streams
