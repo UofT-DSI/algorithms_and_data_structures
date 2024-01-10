@@ -40,24 +40,23 @@ The workshop will be held over three weeks, three days a week. Two of the three 
 
 
 ### Lesson Schedule
-| Lesson | Topic                                                                                        | Assignments      | Resources  |
-|--------|----------------------------------------------------------------------------------------------|------------------|------------|
-| 1      | Motivation and Big-O Notation       | [Assignment 1]() | [Slides]() |
-| 2      | Data Structures, Sorting, and Searching                                            | [Assignment 1]() | [Slides]() |
-| 3      | Recursion                 | [Assignment 1]() | [Slides]() |
-| 4      | Recursive Data Structures | [Assignment 2]() | [Slides]() |
-| 5      | Optimization                           | [Assignment 2]() | [Slides]() |
-| 6      | Why is my code slow?                   | [Assignment 2]() | [Slides]() |
-| 7      | Problem solve, reproducibility, ethics, inequity                                             | [Assignment 1]() <br> [Assignment 2]() | [Slides]() |
-| 8      | Professional Skills - Industry Case Study                                                    | [Assignment 2]() | [Slides]() |
-| 9      | Data Science Foundations - Review and Practice                                               |                  | [Slides]() |
+| Lesson | Topic                                                       | Resources  |
+|--------|-------------------------------------------------------------|------------|
+| 1      | Motivation and Big-O Notation                               | [Slides]() |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides]() |
+| 3      | Recursion              				       | [Slides]() |
+| 4      | Recursive Data Structures                                   | [Slides]() |
+| 5      | Optimization                                                | [Slides]() |
+| 6      | Why is my code slow?                                        | [Slides]() |
+| 7      | Problem solve, reproducibility, ethics, inequity            | [Slides]() |
+| 8      | Professional Skills - Industry Case Study                   | [Slides]() |
+| 9      | Data Science Foundations - Review and Practice              | [Slides]() |
 
 ## Marking Scheme
-| Assessment       | Weight | Description | Due Date |
-|------------------|--------|-------------|----------|
-| [Assignment 1]() |        |             |          |
-| [Assignment 2]() |        |             |          |
-|                  |        |             |          |
+| Assessment       | Weight    | Description          | Due Date |
+|------------------|-----------|----------------------|----------|
+| [Assignment 1]() |    30%    | DSA coding practice  |          |
+| [Assignment 2]() |    70%    | mock interview       |          |
 
 ## Policies
 Students should be active participants while coding and are encouraged to ask questions throughout.
@@ -68,7 +67,7 @@ Students should be active participants while coding and are encouraged to ask qu
 Below are the folders contained in this repo with a description of what they contain and information on how to use them.
 
 ### 1 *assignments*:
-This folder contains the assignments for the workshop. Students are expected to complete them one week after the content has been delivered.
+This folder contains the assignments.
 
 ### 2. *homework*:
 This folder contains a pdf file with all the recommended problems. The problems are also found after each coresponding set of slides. 
