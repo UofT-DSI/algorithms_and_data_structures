@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Motivating Code Demos}{5}{0}{1}
+\beamer@sectionintoc {2}{Time Complexity: Introduction to Big-O Notation}{14}{0}{2}
+\beamer@sectionintoc {3}{Best, Average, and Worst Case}{24}{0}{3}
+\beamer@sectionintoc {4}{Space Complexity}{26}{0}{4}
+\beamer@sectionintoc {5}{Recommended Problems and References}{29}{0}{5}
