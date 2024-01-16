@@ -1,13 +1,13 @@
 # Algorithms and data structures
 
 ## Contents:
-1. [Description](https://github.com/rachaellam/dsi-workshop#description)
-2. [Learning Outcomes](https://github.com/rachaellam/dsi-workshop#learning-outcomes)
-3. [Logistics](https://github.com/rachaellam/dsi-workshop#logistics)
-4. [Marking Scheme](https://github.com/rachaellam/dsi-workshop#marking-scheme)
-5. [Policies](https://github.com/rachaellam/dsi-workshop#policies)
-6. [Folder Structure](https://github.com/rachaellam/dsi-workshop#folder-structure)
-7. [Acknowledgements and Contributions](https://github.com/rachaellam/dsi-workshop#acknowledgements-and-contributions)
+1. [Description](https://github.com/UofT-DSI/algorithms_and_data_structures#description)
+2. [Learning Outcomes](https://github.com/UofT-DSI/algorithms_and_data_structures#learning-outcomes)
+3. [Logistics](https://github.com/UofT-DSI/algorithms_and_data_structures#logistics)
+4. [Marking Scheme](https://github.com/UofT-DSI/algorithms_and_data_structures#marking-scheme)
+5. [Policies](https://github.com/UofT-DSI/algorithms_and_data_structures#policies)
+6. [Folder Structure](https://github.com/UofT-DSI/algorithms_and_data_structures#folder-structure)
+7. [Acknowledgements and Contributions](https://github.com/UofT-DSI/algorithms_and_data_structures#acknowledgements-and-contributions)
 
 ## Description:
 The course was created by the University of Toronto's Data Science Institute. An understanding of data structures and algorithms (DSA), will aid the implementation of data science or machine learning methods in practice. Machine learning places emphasis on prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how an algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge on DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
@@ -43,21 +43,33 @@ There will be a live coding component in most classes. Students are expected to 
 ### Lesson Schedule
 | Lesson | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
-| 1      | Motivation and Big-O Notation                               | [Slides]() |
-| 2      | Data Structures, Sorting, and Searching                     | [Slides]() |
-| 3      | Recursion              				       | [Slides]() |
-| 4      | Recursive Data Structures                                   | [Slides]() |
-| 5      | Optimization                                                | [Slides]() |
-| 6      | Why is my code slow?                                        | [Slides]() |
-| 7      | Problem solve, reproducibility, ethics, inequity            | [Slides]() |
-| 8      | Professional Skills - Industry Case Study                   | [Slides]() |
-| 9      | Data Science Foundations - Review and Practice              | [Slides]() |
+| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/1_motivation-big-o.pdf) |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/2_ds-search-sort.pdf) |
+| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
+| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
+| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
+| 6      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
+| 7      | Optimization                                                | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/5_optimization.pdf) |
+| 8      | Optimization                                                | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/5_optimization.pdf) |
+| 9      | Why is my code slow?                                        | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/6_slow-code.pdf) |
+
+### Textbooks
+
+The course content, slides, and recommended problems follow these two textbooks. They are freely available online after a quick google search. 
+
+* Bhargava, A. Y. (2016). *Grokking algorithms: An illustrated guide for programmers and other curious people.* Manning.
+
+  * This textbook is easy to understand and very accessible. We will go deeper than this text.
+  
+* Cormen, T. H. (Ed.). (2009). *Introduction to algorithms (3rd ed).* MIT Press.
+
+  * We won't cover the majority of this textbook. Many topics are too advanced and it goes into a lot of detail. 
 
 ## Marking Scheme
 | Assessment       | Weight    | Description          | Due Date |
 |------------------|-----------|----------------------|----------|
-| [Assignment 1]() |    30%    | DSA coding practice  |          |
-| [Assignment 2]() |    70%    | mock interview       |          |
+| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  |          |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       |          |
 
 ## Policies
 Students should be active participants while coding and are encouraged to ask questions throughout.
