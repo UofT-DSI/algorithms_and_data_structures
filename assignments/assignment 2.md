@@ -2,86 +2,67 @@
 
 ## Objective
 
-The partner assignment aims to provide students with the opportunity to practice coding in an interview context.
+The partner assignment aims to provide students with the opportunity to practice coding in an interview context. You will analyze your partner's Assignment 1. Moreover, code reviews are common practice in a software development team. This assignment should give you a taste of the code review process.
 
 ## Group Size
 
-Each group should have 2 people.
+Each group should have 2 people. You will be assigned a partner
 
 ## Outline
 
 ### Part 1:
 
-Hop on a Zoom call with your partner. One of you is the interviewer. The interviewee will record the Zoom call (get the necessary permissions).
+Hop on a Zoom call with your assigned partner. Pretend they are a collueage at your company or an interviewer. One of you will present your assignment 1 submission in the following steps. 
 
-The interviewer will ask either one of the questions they have mastered in Assignment 1 i.e. say the question number. The interviewee will click on the link associated with that number and share their screen. Give the interviewee around 20 minutes to solve the problem. Feel free to give hints or calcifications about the problem. The interviewee should:
+- Explain the question to your partner and trace the examples you have made. Ensure your partner understand the problem.
 
--   Attempt to solve the problem while explaining their thought process using correct terminology learned in class
+- Explain your initial approaches to the problem and why they worked or didn't work using appropriate terminology learned in class.
 
--   When proposing the final solution, give its time and space complexity
+- Walk through your final solution. Give its time and space complexity and derived them.
 
--   Explain why their solution works using words
+Your partner is encouraged to ask you questions while you present. Your partner should understand the problem, it's challenges, and solution nearly as well as you do by the end of the call. When the first partner is done, switch roles. Send each other your Assignment 1 submission at the end of the call.
 
-It’s totally normal if the interviewee doesn’t solve the problem! Real-interviewers care about your thought process and any progress you make counts. Moreover, real interviewers usually give you more time.
-
-At the end of the 20 minutes, the interviewee should stop the recording and take a screenshot of what they’ve done. Now, the interviewer and interviewee switch.
 
 ### Part 2:
 
-Create a Jupyter Notebook and complete the following about the problem you were asked during the interview.
+Create a Jupyter Notebook, create 6 of the following headings, and complete the following about the your partner's assignment 1:
 
--   Paraphrase the problem in your own words
+-   Paraphrase the problem in your own words.
 
--   Create 2 new examples of each problem
+-   Create 1 new example and 1 example your partner made and explain them.
 
--   Code the solution in Python (code chunk). Try to find the best time and space complexity solution!
+-   Copy the solution your partner wrote. 
 
--   Explain why your solution works
+-   Explain why their solution works in your own words.
 
--   Explain the problem’s and space complexity
+-   Explain the problem’s and space complexity in your own words.
 
--   Explain the thinking to an alternative solution (no coding required, but a classmate reading this should be able to code it up based off your text)
-
-This is the same as part 1 of assignment 1!
+-   Critique your partner's solution, including explanation, if there is anything should be adjusted.
 
 ### Part 3:
 
-Please write a 200 word reflection documenting your studying process from assignment 1 and the interview (part 1) at the bottom of the Juypter Notebook. Again, export this Notebook as pdf.
+Please write a 200 word reflection documenting your studying process from assignment 1, and your presentation and reviewing experience with your partner at the bottom of the Juypter Notebook under a new heading "Reflection." Again, export this Notebook as pdf.
 
-Submission Requirements In the same repository you submitted assignment 1, please ADD the following
+## Submission Requirements 
 
--   EITHER
+In the same repository you submitted assignment 1, please ADD the following
 
-    -   The Zoom video recording where you were the interviewee. Note, GitHub has a 2GB file size limit.
-
-    -   A text file containing a link to google drive or other public cloud storage. Make sure the permissions are such that anyone with the link can view
-
--   AND One PDF of part 2 and part 3
+-   The PDF of the Jupyter Notebook you created for Assignment 2.
 
 Please name your files appropriately!
 
 ## Evaluation Criteria
 
-For the interview, we are looking for the following
-
--   Student understands what the question is asking
-
--   Thought process is logical and clear, utilizing methods learned in class
-
--   Correctness, time, and space complexity of the coding solution
-
--   Clarity in explaining why the solution works, its time and space complexity
-
-For the PDF, we are looking for the same points as assignment 1
+We are looking for the similar points as Assignment 1
 
 -   Problem is accurately stated in the student’s own words
 
--   Two examples are correct and easily understandable
+-   New example is correct and easily understandable
 
 -   Correctness, time, and space complexity of the coding solution
 
 -   Clarity in explaining why the solution works, its time and space complexity
 
--   Clarity in the proposal to the alternative solution
+-   Quality of critique of your partner's assignment, if necessary
 
 ## Submission Deadline
