@@ -12,15 +12,7 @@ Each group should have 2 people. You will be assigned a partner
 
 ### Part 1:
 
-Hop on a Zoom call with your assigned partner. Pretend they are a collueage at your company or an interviewer. One of you will present your assignment 1 submission in the following steps. 
-
-- Explain the question to your partner and trace the examples you have made. Ensure your partner understand the problem.
-
-- Explain your initial approaches to the problem and why they worked or didn't work using appropriate terminology learned in class.
-
-- Walk through your final solution. Give its time and space complexity and derived them.
-
-Your partner is encouraged to ask you questions while you present. Your partner should understand the problem, it's challenges, and solution nearly as well as you do by the end of the call. When the first partner is done, switch roles. Send each other your Assignment 1 submission at the end of the call.
+You and your partner should send to each other your Assignment 1 submission.
 
 
 ### Part 2:
@@ -29,7 +21,7 @@ Create a Jupyter Notebook, create 6 of the following headings, and complete the 
 
 -   Paraphrase the problem in your own words.
 
--   Create 1 new example and 1 example your partner made and explain them.
+-   Create 1 new example that demonstrates you understand the problem. Trace/walkthrough 1 example that your partner made and explain it.
 
 -   Copy the solution your partner wrote. 
 

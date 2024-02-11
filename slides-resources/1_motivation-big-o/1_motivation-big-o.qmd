@@ -23,25 +23,35 @@ author: Salaar Liaqat
 
 ## About Me
 
-- PhD candidate in the Department of Computer Science at UofT
+-   PhD candidate in the Department of Computer Science at UofT
 
-- Thesis is on remote patient monitoring using wearables and mobile devices
+-   Thesis is on remote patient monitoring using wearables and mobile devices
 
-- Did BSc from Vancouver (SFU) and MSc from UofT
+-   Did BSc from Vancouver (SFU) and MSc from UofT
 
-- Co-Founder of a remote patient monitoring startup (Tabiat)
+-   Co-Founder of a remote patient monitoring startup (Tabiat)
+
+## Why should a Data Scientist take this Course?
+
+- Problem solving. This course provides you with a framework to solve coding problems you may encounter in your career.
+
+- Efficient programs. We want to write programs that scale well with big data. 
+
+- Interview preparation. Many data science jobs require a technical interview, which involes solving algorithms problems. 
+
 
 ## Learning Objectives
 
--   Assess options and choices around fundamental algorithms and data structures using Big-O notation.
+-   Assess options and choices around methods to solve problems and data representation methods using Big-O notation.
 
 -   Develop comfort with recursive functions.
 
--   Decide on appropriate data structures
+-   Decide on appropriate methods to represent data for a problem.
 
 -   Take a client-led problem and translate it into an optimization problem.
 
 -   Identify why code is running slowly and know how to improve its performance.
+
 
 # Motivating Code Demos
 
@@ -68,6 +78,8 @@ import random
 ```
 
 ## Loop Versus Vectorized Operations
+
+We will learn about "vectorized" in lecture 6.
 
 ```{python}
 size = 10**4
@@ -103,6 +115,8 @@ print(f"Vectorized Addition: {array_time:.6f} seconds")
 -   This is useful in many iterative algorithms, such as gradient descent.
 
 ## Search in List Versus Set
+
+We will learn about searching and sorting in lecture 2.
 
 ```{python}
 # Python list

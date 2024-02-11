@@ -20,9 +20,9 @@ In a Jupyter Notebook (.ipynb) file, create 6 headings are write down the follow
 
 -   Paraphrase the problem in your own words
 
--   Create 2 new examples of the problem
+-   In the .md file containing your problem, there are examples that illustrate how the code should work. Create 2 new examples that demonstrate you understand the problem.
 
--   Code the solution in Python (code chunk). Try to find the best time and space complexity solution!
+-   Code the solution to your assigned problem in Python (code chunk). Try to find the best time and space complexity solution!
 
 -   Explain why your solution works
 
@@ -38,7 +38,7 @@ Export each .ipynb file as a pdf. There are online converters, you can use the p
 
 Create and submit a public GitHub repository with the following:
 
--   The PDF of the problems you have solved
+-   The PDF of the problem you have solved
 
 ##Evaluation Criteria
 
