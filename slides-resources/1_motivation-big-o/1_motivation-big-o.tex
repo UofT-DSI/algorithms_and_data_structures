@@ -217,7 +217,7 @@
 
 \begin{document}
 \frame{\titlepage}
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, boxrule=0pt, borderline west={3pt}{0pt}{shadecolor}, breakable, interior hidden, enhanced, frame hidden]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, enhanced, frame hidden, borderline west={3pt}{0pt}{shadecolor}, interior hidden, sharp corners, breakable]}{\end{tcolorbox}}\fi
 
 \begin{frame}{Outline}
 \protect\hypertarget{outline}{}
@@ -248,16 +248,31 @@
 \end{itemize}
 \end{frame}
 
+\begin{frame}{Why should a Data Scientist take this Course?}
+\protect\hypertarget{why-should-a-data-scientist-take-this-course}{}
+\begin{itemize}
+\item
+  Problem solving. This course provides you with a framework to solve
+  coding problems you may encounter in your career.
+\item
+  Efficient programs. We want to write programs that scale well with big
+  data.
+\item
+  Interview preparation. Many data science jobs require a technical
+  interview, which involes solving algorithms problems.
+\end{itemize}
+\end{frame}
+
 \begin{frame}{Learning Objectives}
 \protect\hypertarget{learning-objectives}{}
 \begin{itemize}
 \item
-  Assess options and choices around fundamental algorithms and data
-  structures using Big-O notation.
+  Assess options and choices around methods to solve problems and data
+  representation methods using Big-O notation.
 \item
   Develop comfort with recursive functions.
 \item
-  Decide on appropriate data structures
+  Decide on appropriate methods to represent data for a problem.
 \item
   Take a client-led problem and translate it into an optimization
   problem.
@@ -333,6 +348,8 @@
 
 \begin{frame}[fragile]{Loop Versus Vectorized Operations}
 \protect\hypertarget{loop-versus-vectorized-operations-1}{}
+We will learn about what vectorized is in lecture 6.
+
 \begin{Shaded}
 \begin{Highlighting}[]
 \BuiltInTok{print}\NormalTok{(}\SpecialStringTok{f"List Addition: }\SpecialCharTok{\{}\NormalTok{list\_time}\SpecialCharTok{:.6f\}}\SpecialStringTok{ seconds"}\NormalTok{)}
@@ -341,8 +358,8 @@
 \end{Shaded}
 
 \begin{verbatim}
-List Addition: 0.000283 seconds
-Vectorized Addition: 0.000051 seconds
+List Addition: 0.000337 seconds
+Vectorized Addition: 0.000052 seconds
 \end{verbatim}
 
 \begin{itemize}
@@ -357,6 +374,8 @@ Vectorized Addition: 0.000051 seconds
 
 \begin{frame}[fragile]{Search in List Versus Set}
 \protect\hypertarget{search-in-list-versus-set}{}
+We will learn about searching and sorting in lecture 2.
+
 \begin{Shaded}
 \begin{Highlighting}[]
 \CommentTok{\# Python list}
@@ -442,8 +461,8 @@ implements Tim Sort for the default search function.
 \end{Shaded}
 
 \begin{verbatim}
-Selection sort: 1.475458 seconds
-Tim sort: 0.000768 seconds
+Selection sort: 1.625933 seconds
+Tim sort: 0.000862 seconds
 \end{verbatim}
 
 \begin{itemize}

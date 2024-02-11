@@ -79,8 +79,6 @@ import random
 
 ## Loop Versus Vectorized Operations
 
-We will learn about "vectorized" in lecture 6.
-
 ```{python}
 size = 10**4
 
@@ -102,6 +100,8 @@ array_time = timeit.timeit(lambda:
 ```
 
 ## Loop Versus Vectorized Operations
+
+We will learn about what vectorized is in lecture 6.
 
 ```{python}
 print(f"List Addition: {list_time:.6f} seconds")
