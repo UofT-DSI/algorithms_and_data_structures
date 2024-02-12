@@ -75,6 +75,7 @@ The course content, slides, and recommended problems follow these two textbooks.
 Students should be active participants while coding and are encouraged to ask questions throughout.
 
 **How to submit assignments, late policy, academic integrity.**
+Please submit your assignment through this [Google Forms link](https://forms.gle/kaW4owXy7mC36CVZA)
 
 ## Folder Structure
 Below are the folders contained in this repo with a description of what they contain and information on how to use them.
