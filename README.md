@@ -29,7 +29,7 @@ Students will know how to...
 ### Course Contacts
 * Instructor: **Salaar Liaqat** he/him PhD Candidate, UofT. [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
   * Please include the keyword "DSI Algorithms" in your emails and use professional language.
-* TA: [**Tina Ji**] she/her MSc in Applied Computing. [siyu.ji@yahoo.com](siyu.ji@yahoo.com)
+* TA: **Tina Ji** she/her MSc in Applied Computing. [siyu.ji@yahoo.com](siyu.ji@yahoo.com)
   * Please include the keyword "DSI Algorithms" in your emails and use professional language.
 
 ### Delivery instructions
