@@ -29,7 +29,8 @@ Students will know how to...
 ### Course Contacts
 * Instructor: **Salaar Liaqat** he/him PhD Candidate, UofT. [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
   * Please include the keyword "DSI Algorithms" in your emails and use professional language.
-* TA: [**Name**] [pronouns] [degree]. hyperlinkedEmail
+* TA: **Tina Ji** she/her MSc in Applied Computing. [siyu.ji@yahoo.com](siyu.ji@yahoo.com)
+  * Please include the keyword "DSI Algorithms" in your emails and use professional language.
 
 ### Delivery instructions
 The workshop will be held over three weeks, three days a week. Two of the three days will be 2-hours long and the last day will be 3-hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
