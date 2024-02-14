@@ -90,19 +90,23 @@
 \headcommand {\beamer@framepages {39}{39}}
 \headcommand {\slideentry {4}{0}{4}{40/40}{}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\beamer@sectionpages {37}{40}}
-\headcommand {\beamer@subsectionpages {37}{40}}
-\headcommand {\sectionentry {5}{Recommended Problems and References}{41}{Recommended Problems and References}{0}}
-\headcommand {\slideentry {5}{0}{1}{41/41}{}{0}}
+\headcommand {\slideentry {4}{0}{5}{41/41}{}{0}}
 \headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {5}{0}{2}{42/42}{}{0}}
+\headcommand {\beamer@sectionpages {37}{41}}
+\headcommand {\beamer@subsectionpages {37}{41}}
+\headcommand {\sectionentry {5}{Recommended Problems and References}{42}{Recommended Problems and References}{0}}
+\headcommand {\slideentry {5}{0}{1}{42/42}{}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {5}{0}{3}{43/43}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{43/43}{}{0}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\slideentry {5}{0}{4}{44/44}{}{0}}
+\headcommand {\slideentry {5}{0}{3}{44/44}{}{0}}
 \headcommand {\beamer@framepages {44}{44}}
-\headcommand {\beamer@partpages {1}{44}}
-\headcommand {\beamer@subsectionpages {41}{44}}
-\headcommand {\beamer@sectionpages {41}{44}}
-\headcommand {\beamer@documentpages {44}}
-\headcommand {\gdef \inserttotalframenumber {44}}
+\headcommand {\slideentry {5}{0}{4}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {5}{0}{5}{46/46}{}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\beamer@partpages {1}{46}}
+\headcommand {\beamer@subsectionpages {42}{46}}
+\headcommand {\beamer@sectionpages {42}{46}}
+\headcommand {\beamer@documentpages {46}}
+\headcommand {\gdef \inserttotalframenumber {46}}
