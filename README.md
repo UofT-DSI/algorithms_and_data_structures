@@ -82,7 +82,7 @@ Late policy: Everyone has a 24 hours grace period available in total for both as
 hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment upto 24 hours late. After using your grace period time, there will be a 20% 
 penalty for 24 hours, and a 100% penalty after that. 
 
-If there are any extenuating circumstances, pleaese contact the course instructor as soon as possible for accomodations. 
+If there are any extenuating circumstances, pleaese contact the course instructor as soon as possible for accommodations. 
 
 ## Folder Structure
 Below are the folders contained in this repo with a description of what they contain and information on how to use them.
