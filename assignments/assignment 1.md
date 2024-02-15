@@ -53,3 +53,4 @@ Create and submit a public GitHub repository with the following:
 -   Clarity in the proposal to the alternative solution
 
 ## Submission Deadline
+Tuesday Feb 20, 2024 at 11:59pm
