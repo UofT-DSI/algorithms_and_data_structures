@@ -12,7 +12,7 @@ Please complete this individually.
 
 ### Part 1:
 
-You will be assigned one of three problems. You can find the problem description in q[assigned number].md. They are based-off problems from Leetcode. 
+You will be assigned one of three problems based of your first name. Excute "(hash('your first name')%3)+1" in python, and that will tell you your assigned problem. Include this line of code in your submitted notebook pdf. You can find the problem description in q[assigned number].md. They are based-off problems from Leetcode. 
 
 ### Part 2:
 
