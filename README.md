@@ -70,7 +70,7 @@ The course content, slides, and recommended problems follow these two textbooks.
 | Assessment       | Weight    | Description          | Due Date |
 |------------------|-----------|----------------------|----------|
 | [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  | Sat Feb 24, 11:59pm |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       | Fri Feb 30, 11:59pm  |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       | Fri March 1, 11:59pm  |
 
 ## Policies
 Students should be active participants while coding and are encouraged to ask questions throughout.
