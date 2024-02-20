@@ -69,14 +69,20 @@ The course content, slides, and recommended problems follow these two textbooks.
 ## Marking Scheme
 | Assessment       | Weight    | Description          | Due Date |
 |------------------|-----------|----------------------|----------|
-| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  |          |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       |          |
+| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  | Sat Feb 24, 11:59pm |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       | Fri March 1, 11:59pm  |
 
 ## Policies
 Students should be active participants while coding and are encouraged to ask questions throughout.
 
 **How to submit assignments, late policy, academic integrity.**
 Please submit your assignment through this [Google Forms link](https://forms.gle/kaW4owXy7mC36CVZA)
+
+Late policy: Everyone has a 24 hours grace period available in total for both assignments. Meaning if you submit the first assignment 12 hours late, you can submit the second assignment 12 
+hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment upto 24 hours late. After using your grace period time, there will be a 20% 
+penalty for 24 hours, and a 100% penalty after that. 
+
+If there are any extenuating circumstances, pleaese contact the course instructor as soon as possible for accommodations. 
 
 ## Folder Structure
 Below are the folders contained in this repo with a description of what they contain and information on how to use them.

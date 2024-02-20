@@ -58,3 +58,4 @@ We are looking for the similar points as Assignment 1
 -   Quality of critique of your partner's assignment, if necessary
 
 ## Submission Deadline
+Monday Feb 26, 2024 at 11:59pm
