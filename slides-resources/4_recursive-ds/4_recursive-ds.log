@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  10 JAN 2024 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.23)  14 FEB 2024 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1931,7 +1931,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [39
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1055--1055
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1041--1041
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1943,7 +1943,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [40
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1059--1059
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1060--1060
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1955,7 +1955,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [41
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1081--1081
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1064--1064
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1967,18 +1967,11 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [42
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1083--1083
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1074--1074
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
-\openout4 = `4_recursive-ds.vrb'.
 
-
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1114--1114
- [][]  \T1/lmss/m/n/6 (-20) ([])  
- []
-
-(./4_recursive-ds.vrb)
 Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
@@ -1986,7 +1979,7 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
 [43
 
 ]
-Overfull \hbox (0.61255pt too wide) in paragraph at lines 1131--1131
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1096--1096
  [][]  \T1/lmss/m/n/6 (-20) ([])  
  []
 
@@ -1996,6 +1989,37 @@ Overfull \hbox (0.61255pt too wide) has occurred while \output is active
  []
 
 [44
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1098--1098
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+\openout4 = `4_recursive-ds.vrb'.
+
+
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1129--1129
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+(./4_recursive-ds.vrb)
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[45
+
+]
+Overfull \hbox (0.61255pt too wide) in paragraph at lines 1146--1146
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+
+Overfull \hbox (0.61255pt too wide) has occurred while \output is active
+ [][]  \T1/lmss/m/n/6 (-20) ([])  
+ []
+
+[46
 
 ]
 \tf@nav=\write6
@@ -2014,8 +2038,8 @@ L3 programming layer <2023-12-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33547 strings out of 474181
- 685859 string characters out of 5745946
+ 33553 strings out of 474181
+ 685936 string characters out of 5745946
  1937457 words of memory out of 5000000
  54944 multiletter control sequences out of 15000+600000
  628585 words of font info for 143 fonts, out of 8000000 for 9000
@@ -2029,10 +2053,10 @@ nts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
 public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symb
 ols/msam7.pfb>
-Output written on 4_recursive-ds.pdf (44 pages, 311823 bytes).
+Output written on 4_recursive-ds.pdf (46 pages, 313124 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 363 compressed objects within 4 object streams
- 132 named destinations out of 1000 (max. 500000)
+ 522 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 138 named destinations out of 1000 (max. 500000)
  41084 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -563,6 +563,10 @@ bfs(ex_graph, 1)
 
 -   Each leaf represents a single point in the k-dimensional space
 
+## k-d Trees Animation
+
+<https://commons.wikimedia.org/wiki/File:KDTree-animation.gif>
+
 ## Applications and Issues
 
 -   Notice k-d trees can also find values within a certain range very quickly, not just a specific point
@@ -576,6 +580,12 @@ bfs(ex_graph, 1)
 -   Issues occur in high-dimensional spaces and trees can become imbalanced
 
 # Recommended Problems and References
+
+## Recommended Readings
+
+-   Bhargava: Chapter 6
+
+-   Bhargava: Chapter 11, pages 203 to 206 about Trees
 
 ## Recommended Problems
 
