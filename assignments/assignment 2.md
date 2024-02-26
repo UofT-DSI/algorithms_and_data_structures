@@ -27,7 +27,7 @@ Create a Jupyter Notebook, create 6 of the following headings, and complete the 
 
 -   Explain why their solution works in your own words.
 
--   Explain the problem’s and space complexity in your own words.
+-   Explain the problem’s time and space complexity in your own words.
 
 -   Critique your partner's solution, including explanation, if there is anything should be adjusted.
 
