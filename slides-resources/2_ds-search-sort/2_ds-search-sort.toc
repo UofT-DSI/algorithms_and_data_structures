@@ -1,5 +1,0 @@
-\beamer@sectionintoc {1}{Array Based Data Structures}{3}{0}{1}
-\beamer@sectionintoc {2}{Searching}{11}{0}{2}
-\beamer@sectionintoc {3}{Sorting}{14}{0}{3}
-\beamer@sectionintoc {4}{Hash map, hash table (Python dictionary), hash functions}{18}{0}{4}
-\beamer@sectionintoc {5}{Recommended Problems and References}{24}{0}{5}
