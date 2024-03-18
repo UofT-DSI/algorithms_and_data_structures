@@ -1,6 +1,30 @@
 # Algorithms and Data Structures
 
-## Description:
+## Content
+* [Description](#description)
+* [Learning Outcomes](#learning-outcomes)
+* [Logistics](#logistics)
+  + [Course Contacts](#course-contacts)
+  + [Delivery instructions](#delivery-instructions)
+* [Policies](#policies)
+  + [Requirements](#requirements)
+  + [Delivery of Module](#delivery-of-module)
+  + [How the Instructor will deliver](#how-the-instructor-will-deliver)
+  + [Expectations](#expectations)
+  + [Lesson Schedule](#lesson-schedule)
+  + [Textbooks](#textbooks)
+* [Marking Scheme](#marking-scheme)
+* [Policies](#policies-1)
+* [Resources](#resources)
+  + [Documents](#documents)
+  + [Videos](#videos)
+  + [How to get help](#how-to-get-help)
+* [Folder Structure](#folder-structure)
+* [Acknowledgements and Contributions](#acknowledgements-and-contributions)
+* [Achnowledgements](#achnowledgements)
+  + [Contributions ](#contributions)
+
+## Description
 The course was created by the University of Toronto's Data Science Institute. An understanding of data structures and algorithms (DSA), will aid the implementation of data science or machine learning methods in practice. Machine learning places emphasis on prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how an algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge on DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
 
 The beginning of the course will introduce students to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Students should be able to justify algorithm or data structure choices based off time and space complexity analysis. Then, students will be introduced to recursion. We will solve problems using recursion and implment data structures that are best understood from a recursive perspective. Again, students will justify their design choices. The last portion of the course will be dedicated to solving optimization problems quickly. Students will be introduced to a variety of techniques to solve problems, identify when and how a solution can be optimized.
