@@ -94,7 +94,7 @@ Learners are encouraged to be active participants while coding and are encourage
 
 The course content, slides, and recommended problems follow these two textbooks. They are freely available online after a quick google search. 
 
-* Bhargava, A. Y. (2016). *Grokking algorithms: An illustrated guide for programmers and other curious people.* Manning.
+* Bhargava, A. Y. (2016). *Grokking algorithms: An illustrated guide for programmers and other curious people.* Manning. ([link](https://www.manning.com/books/grokking-algorithms-second-edition))
   * This textbook is easy to understand and very accessible. We will go deeper than this text.
 * Cormen, T. H. (Ed.). (2009). *Introduction to algorithms (3rd ed).* MIT Press.
   * We won't cover the majority of this textbook. Many topics are too advanced and it goes into a lot of detail. 

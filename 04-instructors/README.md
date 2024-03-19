@@ -17,11 +17,19 @@ The `/04-homework` directory contains all the homework, a learner can do to demo
 
 ### Week 1
 
-TBD
+| Lesson | Topic                                                       | Resources  |
+|--------|-------------------------------------------------------------|------------|
+| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/1_motivation-big-o.pdf) |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/2_ds-search-sort.pdf) |
+| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
 
 ### Week 2
 
-TBD
+| Lesson | Topic                                                       | Resources  |
+|--------|-------------------------------------------------------------|------------|
+| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
+| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
+| 6      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
 
 ## How do you assign assignments?
 Assignments are given and assigned at the start of each week at the end of the first lecture. The instructor will announce to the learners what the assignment is about, and how everything they will learn within the week will equip them to work on the assignment.
