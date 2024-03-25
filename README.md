@@ -81,6 +81,7 @@ The instructors will introduce the concepts through a collaborative live coding 
 Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
 
 ### Lesson Schedule
+
 | Lesson | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
 | 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/1_motivation-big-o.pdf) |
@@ -88,7 +89,6 @@ Learners are encouraged to be active participants while coding and are encourage
 | 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
 | 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
 | 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
-| 6      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
 
 ### Textbooks
 

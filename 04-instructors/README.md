@@ -29,7 +29,6 @@ The `/04-homework` directory contains all the homework, a learner can do to demo
 |--------|-------------------------------------------------------------|------------|
 | 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
 | 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
-| 6      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
 
 ## How do you assign assignments?
 Assignments are given and assigned at the start of each week at the end of the first lecture. The instructor will announce to the learners what the assignment is about, and how everything they will learn within the week will equip them to work on the assignment.
