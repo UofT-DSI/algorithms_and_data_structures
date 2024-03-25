@@ -147,6 +147,7 @@ Feel free to use the following as resources:
 |-- 02-assignments
 |-- 03-homework
 |-- 04-instructors
+|-- 05-additional-resources
 |-- .gitignore
 ```
 
@@ -157,12 +158,14 @@ Feel free to use the following as resources:
 * **homework:** Optional homework to practice concepts covered in class
 * **assignments:** Graded assignments
 * **instructors:** Instructions for the Instructor on what to teach
+* **additional resources:** Additional materials not covered by the module
 * README: This file!
 * .gitignore: Files to exclude from this folder, specified by the instructor
 
 ## Acknowledgements and Contributions
-## Achnowledgements
-* The course was devloped by [Alex Yu](https://www.linkedin.com/in/kunzhi-yu/) under the supervision of Rohan Alexander. 
+
+### Achnowledgements
+* The module was devloped by [Alex Yu](https://www.linkedin.com/in/kunzhi-yu/) under the supervision of Rohan Alexander. 
 * We wish to acknowledge this land on which the University of Toronto operates. For thousands of years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
 ### Contributions 
 * `algorithms_and_data_structures` welcomes issues, enhancement requests, and other contributions. To submit an issue, use the [GitHub
