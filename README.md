@@ -27,9 +27,9 @@ Students will know how to...
 ## Logistics
 
 ### Course Contacts
-* Instructor: **Salaar Liaqat** he/him PhD Candidate, UofT. [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
+* Instructor: **Salaar Liaqat** [s.liaqat@mail.utoronto.ca](s.liaqat@mail.utoronto.ca)
   * Please include the keyword "DSI Algorithms" in your emails and use professional language.
-* TA: **Tina Ji** she/her MSc in Applied Computing. [siyu.ji@yahoo.com](siyu.ji@yahoo.com)
+* TA: **Jenny Du** [junni.du@mail.utoronto.ca](junni.du@mail.utoronto.ca)
   * Please include the keyword "DSI Algorithms" in your emails and use professional language.
 
 ### Delivery instructions
@@ -69,14 +69,14 @@ The course content, slides, and recommended problems follow these two textbooks.
 ## Marking Scheme
 | Assessment       | Weight    | Description          | Due Date |
 |------------------|-----------|----------------------|----------|
-| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  | Sat Feb 24, 11:59pm |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       | Fri March 1, 11:59pm  |
+| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) |    40%    | DSA coding practice  | Sat April 6, 11:59pm |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) |    60%    | mock interview       | Fri April 12, 11:59pm  |
 
 ## Policies
 Students should be active participants while coding and are encouraged to ask questions throughout.
 
 **How to submit assignments, late policy, academic integrity.**
-Please submit your assignment through this [Google Forms link](https://forms.gle/kaW4owXy7mC36CVZA)
+Please submit your assignment by uploading the PDFs to your google drive folder used for assignment submissions.
 
 Late policy: Everyone has a 24 hours grace period available in total for both assignments. Meaning if you submit the first assignment 12 hours late, you can submit the second assignment 12 
 hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment upto 24 hours late. After using your grace period time, there will be a 20% 
