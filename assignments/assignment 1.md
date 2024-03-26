@@ -36,7 +36,7 @@ Export each .ipynb file as a pdf. There are online converters, you can use the p
 
 ## Submission Requirements
 
-Create and submit a public GitHub repository with the following:
+Submit to your Google Drive folder with the following:
 
 -   The PDF of the problem you have solved
 
