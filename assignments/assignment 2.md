@@ -6,7 +6,7 @@ The partner assignment aims to provide students with the opportunity to practice
 
 ## Group Size
 
-Each group should have 2 people. You will be assigned a partner
+Each group should have 2 people. You will be emailed details about your assigned partner shortly after submitting Assignment 1. 
 
 ## Outline
 
@@ -37,7 +37,7 @@ Please write a 200 word reflection documenting your studying process from assign
 
 ## Submission Requirements 
 
-In the same repository you submitted assignment 1, please ADD the following
+In the same Google Drive folder you submitted assignment 1, please ADD the following
 
 -   The PDF of the Jupyter Notebook you created for Assignment 2.
 
