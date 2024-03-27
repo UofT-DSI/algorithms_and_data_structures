@@ -9,12 +9,12 @@
 * [Policies](#policies)
   + [Requirements](#requirements)
   + [Delivery of Module](#delivery-of-module)
-  + [How the Instructor will deliver](#how-the-instructor-will-deliver)
+  + [How the Technical Facilitator will deliver](#how-the-technical-facilitator-will-deliver)
   + [Expectations](#expectations)
   + [Lesson Schedule](#lesson-schedule)
   + [Textbooks](#textbooks)
 * [Marking Scheme](#marking-scheme)
-* [Policies](#policies-1)
+* [Policies](#policies)
 * [Resources](#resources)
   + [Documents](#documents)
   + [Videos](#videos)
@@ -45,8 +45,8 @@ By the end of the module, learners will:
 ### Course Contacts
 **Questions can be submitted to the #questions channel on Slack**
 
-* Instructor: **{Name}** {Pronouns}. Emails to the instructor can be sent to {first_name.last_name}@mail.utoronto.ca.
-* TA: **{Name}** {Pronouns}. Emails to the instructor can be sent to {first_name.last_name}@mail.utoronto.ca.
+* Technical Facilitator: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
+* Learning Support Staff: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
 
 ### Delivery instructions
 The workshop will be held over three weeks, three days a week. Two of the three days will be 2-hours long and the last day will be 3-hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
@@ -72,10 +72,10 @@ There will be a live coding component in most classes. Students are expected to 
 * Camera is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
 
 ### Delivery of Module
-The module will run sychronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the instructor will introduce the concepts for the week. The last day is used for as optional, asychronous work periods. The work periods will also last for up to 3 hours. During the work period, an instructor or TA will be present on Zoom to assist learners reach the intended learning outcomes.
+The module will run sychronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used for as optional, asychronous work periods. The work periods will also last for up to 3 hours. During the work period, an Technical Facilitator or TA will be present on Zoom to assist learners reach the intended learning outcomes.
 
-### How the Instructor will deliver
-The instructors will introduce the concepts through a collaborative live coding session usiing the Python notebooks found under `/01-slides`. All instructors will also upload any live coding files to this repository for any learners to revisit under `/live-code`.
+### How the Technical Facilitator will deliver
+The Technical Facilitators will introduce the concepts through a collaborative live coding session usiing the Python notebooks found under `/01-slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live-code`.
  
 ### Expectations
 Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
@@ -115,7 +115,7 @@ Late policy: Everyone has a 24 hours grace period available in total for both as
 hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment upto 24 hours late. After using your grace period time, there will be a 20% 
 penalty for 24 hours, and a 100% penalty after that. 
 
-If there are any extenuating circumstances, pleaese contact the course instructor as soon as possible for accommodations. 
+If there are any extenuating circumstances, pleaese contact the course Technical Facilitator as soon as possible for accommodations. 
 
 ## Resources
 Feel free to use the following as resources:
@@ -143,12 +143,14 @@ Feel free to use the following as resources:
 ## Folder Structure
 
 ```markdown
-|-- 01-slides
-|-- 02-assignments
-|-- 03-homework
-|-- 04-instructors
-|-- 05-additional-resources
-|-- .gitignore
+.
+├── 01-slides
+├── 02-assignments
+├── 03-homework
+├── 04-instructors
+├── LICENSE
+├── README.md
+└── steps-to-ask-for-help.png
 ```
 
 * **slides:** Course slides as interactive notebooks (.ipynb files)
@@ -157,10 +159,10 @@ Feel free to use the following as resources:
 * **live-coding:** Notebooks from class live coding sessions
 * **homework:** Optional homework to practice concepts covered in class
 * **assignments:** Graded assignments
-* **instructors:** Instructions for the Instructor on what to teach
+* **instructors:** Instructions for the Technical Facilitator on what to teach
 * **additional resources:** Additional materials not covered by the module
 * README: This file!
-* .gitignore: Files to exclude from this folder, specified by the instructor
+* .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
 
 ## Acknowledgements and Contributions
 
