@@ -136,7 +136,7 @@ Feel free to use the following as resources:
 - [Sorting Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 
 ### How to get help
-![image](/steps-to-ask-for-help.png)
+![image](/steps_to_ask_for_help.png)
 
 <hr>
 
@@ -150,7 +150,7 @@ Feel free to use the following as resources:
 ├── 04-instructors
 ├── LICENSE
 ├── README.md
-└── steps-to-ask-for-help.png
+└── steps_to_ask_for_help.png
 ```
 
 * **slides:** Course slides as interactive notebooks (.ipynb files)
