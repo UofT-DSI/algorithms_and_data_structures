@@ -75,7 +75,7 @@ There will be a live coding component in most classes. Students are expected to 
 The module will run sychronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used for as optional, asychronous work periods. The work periods will also last for up to 3 hours. During the work period, an Technical Facilitator or TA will be present on Zoom to assist learners reach the intended learning outcomes.
 
 ### How the Technical Facilitator will deliver
-The Technical Facilitators will introduce the concepts through a collaborative live coding session usiing the Python notebooks found under `/01-slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live-code`.
+The Technical Facilitators will introduce the concepts through a collaborative live coding session usiing the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live_code`.
  
 ### Expectations
 Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
@@ -144,10 +144,10 @@ Feel free to use the following as resources:
 
 ```markdown
 .
-├── 01-slides
-├── 02-assignments
-├── 03-homework
-├── 04-instructors
+├── 01_slides
+├── 02_assignments
+├── 03_homework
+├── 04_instructors
 ├── LICENSE
 ├── README.md
 └── steps_to_ask_for_help.png
@@ -156,7 +156,7 @@ Feel free to use the following as resources:
 * **slides:** Course slides as interactive notebooks (.ipynb files)
 * **html slides:** Course slides as HTML files that can be downloaded and viewed in a web browser
 * **pdf slides:** Course slides as PDF files
-* **live-coding:** Notebooks from class live coding sessions
+* **live_coding:** Notebooks from class live coding sessions
 * **homework:** Optional homework to practice concepts covered in class
 * **assignments:** Graded assignments
 * **instructors:** Instructions for the Technical Facilitator on what to teach
