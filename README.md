@@ -25,9 +25,9 @@
   + [Contributions ](#contributions)
 
 ## Description
-The course was created by the University of Toronto's Data Science Institute. An understanding of data structures and algorithms (DSA), will aid the implementation of data science or machine learning methods in practice. Machine learning places emphasis on prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how an algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge on DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
+The course was created by the University of Toronto's Data Science Institute. An understanding of data structures and algorithms (DSA), will aid the implementation of data science or machine learning methods in practice. Machine learning emphasizes prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge of DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
 
-The beginning of the course will introduce students to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Students should be able to justify algorithm or data structure choices based off time and space complexity analysis. Then, students will be introduced to recursion. We will solve problems using recursion and implment data structures that are best understood from a recursive perspective. Again, students will justify their design choices. The last portion of the course will be dedicated to solving optimization problems quickly. Students will be introduced to a variety of techniques to solve problems, identify when and how a solution can be optimized.
+The beginning of the course will introduce students to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Students should be able to justify algorithm or data structure choices based on time and space complexity analysis. Then, students will be introduced to recursion. We will solve problems using recursion and implement data structures that are best understood from a recursive perspective. Again, students will justify their design choices. The last portion of the course will be dedicated to solving optimization problems quickly. Students will be introduced to a variety of techniques to solve problems and identify when and how a solution can be optimized.
 
 This course is designed for those who have a degree in something other than Computer Science/Statistics who are looking to enhance their data science skills for their career.
 
@@ -49,7 +49,7 @@ By the end of the module, learners will:
 * Learning Support Staff: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
 
 ### Delivery instructions
-The workshop will be held over three weeks, three days a week. Two of the three days will be 2-hours long and the last day will be 3-hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
+The workshop will be held over three weeks, three days a week. Two of the three days will be 2 hours long and the last day will be 3 hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
 
 There will be a live coding component in most classes. Students are expected to follow along with the coding and ask questions throughout. 
 
@@ -58,24 +58,24 @@ There will be a live coding component in most classes. Students are expected to 
 * **Course communications:** Communications take place over email or on Slack. If communicating over email, please include "DSI-Algo" or similar in the subject line, e.g. "DSI-Algo: BFS question"
 * **Camera:** Keeping your camera on is optional.
 * **Microphone:** Please keep microphones muted unless you need to speak. Please indicate your name before speaking as some Zoom configurations make it hard to tell who is talking!
-* **Assessment:** There will be homework which **is not** graded, but highly recommended, and there will be two assignments which **are** graded.
+* **Assessment:** There will be homework that **is**** not** graded, but highly recommended, and there will be two assignments that **are** graded.
 
 ### Requirements
-* Learners are not expected to have any coding experience, we designed the learning contents for beginners.
-* Learners are encouraged to ask questions, and collaborate with others to enhance learning.
+* Learners are not expected to have any coding experience, we designed the learning content for beginners.
+* Learners are encouraged to ask questions and collaborate with others to enhance learning.
 * Learners must have a computer and an internet connection to participate in online activities.
 * Learners must have VSCode installed with the following extensions: 
     * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* Learners must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be use as a supportive tool to seek out answers to questions you may have.
+* Learners must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect learners to have completed the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
-* Camera is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
+* Webcam is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
 
 ### Delivery of Module
-The module will run sychronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used for as optional, asychronous work periods. The work periods will also last for up to 3 hours. During the work period, an Technical Facilitator or TA will be present on Zoom to assist learners reach the intended learning outcomes.
+The module will run synchronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used as an optional, asynchronous work period. The work periods will also last for up to 3 hours. During the work period, a Technical Facilitator or Learning Support staff will be present on Zoom to assist learners reach the intended learning outcomes.
 
 ### How the Technical Facilitator will deliver
-The Technical Facilitators will introduce the concepts through a collaborative live coding session usiing the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live_code`.
+The Technical Facilitators will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live_code`.
  
 ### Expectations
 Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
@@ -92,7 +92,7 @@ Learners are encouraged to be active participants while coding and are encourage
 
 ### Textbooks
 
-The course content, slides, and recommended problems follow these two textbooks. They are freely available online after a quick google search. 
+The course content, slides, and recommended problems follow these two textbooks. They are freely available online after a quick Google search. 
 
 * Bhargava, A. Y. (2016). *Grokking algorithms: An illustrated guide for programmers and other curious people.* Manning. ([link](https://www.manning.com/books/grokking-algorithms-second-edition))
   * This textbook is easy to understand and very accessible. We will go deeper than this text.
@@ -109,13 +109,13 @@ The course content, slides, and recommended problems follow these two textbooks.
 Students should be active participants while coding and are encouraged to ask questions throughout.
 
 **How to submit assignments, late policy, academic integrity.**
-Please submit your assignment by uploading the PDFs to your google drive folder used for assignment submissions.
+Please submit your assignment by uploading the PDFs to your Google Drive folder used for assignment submissions.
 
-Late policy: Everyone has a 24 hours grace period available in total for both assignments. Meaning if you submit the first assignment 12 hours late, you can submit the second assignment 12 
-hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment upto 24 hours late. After using your grace period time, there will be a 20% 
+Late policy: Everyone has a 24-hour grace period available in total for both assignments. Meaning if you submit the first assignment 12 hours late, you can submit the second assignment 12 
+hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment up to 24 hours late. After using your grace period time, there will be a 20% 
 penalty for 24 hours, and a 100% penalty after that. 
 
-If there are any extenuating circumstances, pleaese contact the course Technical Facilitator as soon as possible for accommodations. 
+If there are any extenuating circumstances, please contact the course Technical Facilitator as soon as possible for accommodations. 
 
 ## Resources
 Feel free to use the following as resources:
@@ -127,7 +127,7 @@ Feel free to use the following as resources:
 - [Codecademy Explanation](https://www.codecademy.com/article/tree-traversal)
 
 ### Videos
-- [15 Sorting Algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) (Warning: This video could cause seizures for people with photosensitve epillepsy)
+- [15 Sorting Algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) (Warning: This video could cause seizures for people with photosensitive epilepsy)
 - [Big O Notation](https://www.youtube.com/watch?v=g2o22C3CRfU)
 - [Breadth-first Search in 4 minutes](https://www.youtube.com/watch?v=HZ5YTanv5QE)
 - [Depth-first Search in 4 minutes](https://www.youtube.com/watch?v=Urx87-NMm6c)
@@ -167,8 +167,8 @@ Feel free to use the following as resources:
 ## Acknowledgements and Contributions
 
 ### Achnowledgements
-* The module was devloped by [Alex Yu](https://www.linkedin.com/in/kunzhi-yu/) under the supervision of Rohan Alexander. 
-* We wish to acknowledge this land on which the University of Toronto operates. For thousands of years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
+* The module was developed by [Alex](https://www.linkedin.com/in/kunzhi-yu/) Yu](https://www.linkedin.com/in/kunzhi-yu/) under the supervision of Rohan Alexander. 
+* We wish to acknowledge this land on which the University of Toronto operates. For thousands of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
 ### Contributions 
 * `algorithms_and_data_structures` welcomes issues, enhancement requests, and other contributions. To submit an issue, use the [GitHub
 issues](https://github.com/UofT-DSI/algorithms_and_data_structures/issues).
