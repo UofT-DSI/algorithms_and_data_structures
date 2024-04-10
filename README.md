@@ -6,15 +6,13 @@
 * [Logistics](#logistics)
   + [Course Contacts](#course-contacts)
   + [Delivery instructions](#delivery-instructions)
-* [Policies](#policies)
-  + [Requirements](#requirements)
-  + [Delivery of Module](#delivery-of-module)
+* [Delivery of Module](#delivery-of-module)
   + [How the Technical Facilitator will deliver](#how-the-technical-facilitator-will-deliver)
   + [Expectations](#expectations)
+  + [Requirements](#requirements)
   + [Lesson Schedule](#lesson-schedule)
   + [Textbooks](#textbooks)
 * [Marking Scheme](#marking-scheme)
-* [Policies](#policies)
 * [Resources](#resources)
   + [Documents](#documents)
   + [Videos](#videos)
@@ -51,14 +49,16 @@ By the end of the module, learners will:
 ### Delivery instructions
 The workshop will be held over three weeks, three days a week. Two of the three days will be 2 hours long and the last day will be 3 hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
 
-There will be a live coding component in most classes. Students are expected to follow along with the coding and ask questions throughout. 
+There will be a live coding component in most classes. Students are expected to follow along with the coding and ask questions throughout.
 
-## Policies
-* **Accessibility:** We want to provide an accessible learning environment for all. If there is something we can do to make this course more accessible to you, please let us know.
-* **Course communications:** Communications take place over email or on Slack. If communicating over email, please include "DSI-Algo" or similar in the subject line, e.g. "DSI-Algo: BFS question"
-* **Camera:** Keeping your camera on is optional.
-* **Microphone:** Please keep microphones muted unless you need to speak. Please indicate your name before speaking as some Zoom configurations make it hard to tell who is talking!
-* **Assessment:** There will be homework that **is**** not** graded, but highly recommended, and there will be two assignments that **are** graded.
+## Delivery of Module
+The module will run synchronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used as an optional, asynchronous work period. The work periods will also last for up to 3 hours. During the work period, a Technical Facilitator or Learning Support staff will be present on Zoom to assist learners reach the intended learning outcomes.
+
+### How the Technical Facilitator will deliver
+The Technical Facilitators will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live_code`.
+
+### Expectations
+Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
 
 ### Requirements
 * Learners are not expected to have any coding experience, we designed the learning content for beginners.
@@ -71,14 +71,6 @@ There will be a live coding component in most classes. Students are expected to 
 * We expect learners to have completed the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
 * Webcam is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
 
-### Delivery of Module
-The module will run synchronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used as an optional, asynchronous work period. The work periods will also last for up to 3 hours. During the work period, a Technical Facilitator or Learning Support staff will be present on Zoom to assist learners reach the intended learning outcomes.
-
-### How the Technical Facilitator will deliver
-The Technical Facilitators will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `/live_code`.
- 
-### Expectations
-Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
 
 ### Lesson Schedule
 
@@ -104,9 +96,6 @@ The course content, slides, and recommended problems follow these two textbooks.
 |------------------|----------------------|----------|
 | [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) | DSA coding practice  | TBD |
 | [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) | mock interview       | TBD |
-
-## Policies
-Students should be active participants while coding and are encouraged to ask questions throughout.
 
 **How to submit assignments, late policy, academic integrity.**
 Please submit your assignment by uploading the PDFs to your Google Drive folder used for assignment submissions.
@@ -153,7 +142,7 @@ Feel free to use the following as resources:
 └── steps_to_ask_for_help.png
 ```
 
-* **slides:** Course slides as interactive notebooks (.ipynb files)
+* **slides:** Course slides as interactive notebooks (`.ipynb` files)
 * **html slides:** Course slides as HTML files that can be downloaded and viewed in a web browser
 * **pdf slides:** Course slides as PDF files
 * **live_coding:** Notebooks from class live coding sessions
