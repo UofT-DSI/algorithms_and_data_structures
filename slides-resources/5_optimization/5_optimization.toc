@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Setting up an Optimization Problem}{3}{0}{1}
-\beamer@sectionintoc {2}{Linear Programming}{10}{0}{2}
-\beamer@sectionintoc {3}{Dynamic Programming}{15}{0}{3}
-\beamer@sectionintoc {4}{Recommended Problems and References}{27}{0}{4}
