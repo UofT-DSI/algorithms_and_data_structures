@@ -18,12 +18,10 @@
   + [Videos](#videos)
   + [How to get help](#how-to-get-help)
 * [Folder Structure](#folder-structure)
-* [Acknowledgements and Contributions](#acknowledgements-and-contributions)
-* [Achnowledgements](#achnowledgements)
-  + [Contributions ](#contributions)
+* [Acknowledgement](#acknowledgement)
 
 ## Description
-The course was created by the University of Toronto's Data Science Institute. An understanding of data structures and algorithms (DSA), will aid the implementation of data science or machine learning methods in practice. Machine learning emphasizes prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge of DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
+The course was created by the University of Toronto's Data Science Institute. An understanding of algorithms and data structures will aid the implementation of data science or machine learning methods in practice. Machine learning emphasizes prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge of DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
 
 The beginning of the course will introduce students to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Students should be able to justify algorithm or data structure choices based on time and space complexity analysis. Then, students will be introduced to recursion. We will solve problems using recursion and implement data structures that are best understood from a recursive perspective. Again, students will justify their design choices. The last portion of the course will be dedicated to solving optimization problems quickly. Students will be introduced to a variety of techniques to solve problems and identify when and how a solution can be optimized.
 
@@ -68,7 +66,7 @@ Learners are encouraged to be active participants while coding and are encourage
     * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * Learners must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
-* We expect learners to have completed the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
+* We expect learners to have completed the [onboarding repo](https://github.com/UofT-DSI/onboarding/tree/main/onboarding_documents).
 * Webcam is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
 
 
@@ -76,11 +74,11 @@ Learners are encouraged to be active participants while coding and are encourage
 
 | Lesson | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
-| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/1_motivation-big-o.pdf) |
-| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/2_ds-search-sort.pdf) |
-| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
-| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/3_recursion.pdf) |
-| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/lessons/4_recursive-ds.pdf) |
+| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/1_motivation_big_o.ipynb) |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/2_ds_search_sort.ipynb) |
+| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
+| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
+| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
 
 ### Textbooks
 
@@ -94,8 +92,8 @@ The course content, slides, and recommended problems follow these two textbooks.
 ## Marking Scheme
 | Assessment       | Description          | Due Date |
 |------------------|----------------------|----------|
-| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%201.md) | DSA coding practice  | TBD |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/assignments/assignment%202.md) | mock interview       | TBD |
+| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_1.ipynb) | DSA coding practice  | TBD |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_2.ipynb) | mock interview       | TBD |
 
 **How to submit assignments, late policy, academic integrity.**
 Please submit your assignment by uploading the PDFs to your Google Drive folder used for assignment submissions.
@@ -125,7 +123,7 @@ Feel free to use the following as resources:
 - [Sorting Playlist](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 
 ### How to get help
-![image](/steps_to_ask_for_help.png)
+![image](./steps_to_ask_for_help.png)
 
 <hr>
 
@@ -136,7 +134,7 @@ Feel free to use the following as resources:
 ├── 01_slides
 ├── 02_assignments
 ├── 03_homework
-├── 04_instructors
+├── 04_instructional_team
 ├── LICENSE
 ├── README.md
 └── steps_to_ask_for_help.png
@@ -153,11 +151,7 @@ Feel free to use the following as resources:
 * README: This file!
 * .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
 
-## Acknowledgements and Contributions
+## Acknowledgement
 
-### Achnowledgements
-* The module was developed by [Alex](https://www.linkedin.com/in/kunzhi-yu/) Yu](https://www.linkedin.com/in/kunzhi-yu/) under the supervision of Rohan Alexander. 
-* We wish to acknowledge this land on which the University of Toronto operates. For thousands of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
-### Contributions 
-* `algorithms_and_data_structures` welcomes issues, enhancement requests, and other contributions. To submit an issue, use the [GitHub
-issues](https://github.com/UofT-DSI/algorithms_and_data_structures/issues).
+We wish to acknowledge this land on which the University of Toronto operates. For thousands of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
+
