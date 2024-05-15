@@ -3,17 +3,13 @@
 ## Content
 * [Description](#description)
 * [Learning Outcomes](#learning-outcomes)
-* [Logistics](#logistics)
-  + [Course Contacts](#course-contacts)
-  + [Delivery instructions](#delivery-instructions)
-* [Delivery of Module](#delivery-of-module)
-  + [How the Technical Facilitator will deliver](#how-the-technical-facilitator-will-deliver)
-  + [Expectations](#expectations)
-  + [Requirements](#requirements)
-  + [Lesson Schedule](#lesson-schedule)
-  + [Textbooks](#textbooks)
-* [Marking Scheme](#marking-scheme)
+* [Assignments](#assignments)
+* [Contacts](#contacts)
+* [Delivery of the Learning Module](#delivery-of-the-learning-module)
+* [Schedule](#schedule)
+* [Requirements](#requirements)
 * [Resources](#resources)
+  + [Textbooks](#textbooks)
   + [Documents](#documents)
   + [Videos](#videos)
   + [How to get help](#how-to-get-help)
@@ -21,64 +17,64 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Description
-The course was created by the University of Toronto's Data Science Institute. An understanding of algorithms and data structures will aid the implementation of data science or machine learning methods in practice. Machine learning emphasizes prediction, scalability, and autonomy. Understanding DSA is essential to the latter two aims of ML. For instance, students will be able to describe how algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Finally, the industry often requires knowledge of DSAs and the ability to communicate the solving process. This course will provide the knowledge and terminology necessary to succeed in these situations.
+The module was created by the University of Toronto's Data Sciences Institute. An understanding of algorithms and data structures will aid the implementation of data science or machine learning methods in practice. Machine learning emphasizes prediction, scalability, and autonomy. Understanding algorithms and data structures is essential to the latter two aims of ML. Participants will be able to describe how algorithms will perform when scaled or find practical methods for computers to solve problems autonomously. Industry often requires knowledge of algorithms and data structures and the ability to communicate the solving process. This module will provide the knowledge and terminology necessary to succeed in these situations.
 
-The beginning of the course will introduce students to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Students should be able to justify algorithm or data structure choices based on time and space complexity analysis. Then, students will be introduced to recursion. We will solve problems using recursion and implement data structures that are best understood from a recursive perspective. Again, students will justify their design choices. The last portion of the course will be dedicated to solving optimization problems quickly. Students will be introduced to a variety of techniques to solve problems and identify when and how a solution can be optimized.
-
-This course is designed for those who have a degree in something other than Computer Science/Statistics who are looking to enhance their data science skills for their career.
+The module will introduce participants to terminology to discuss algorithms. This includes Big-O notation, time and space complexity. The next section will explore array-based data structures, searching, and sorting. Participans should be able to justify algorithm or data structure choices based on time and space complexity analysis. Then, participants will be introduced to recursion. We will solve problems using recursion and implement data structures that are best understood from a recursive perspective. Participants will justify their design choices. The last portion of the module will be dedicated to solving optimization problems quickly. Participants will be introduced to a variety of techniques to solve problems and identify when and how a solution can be optimized.
 
 ## Learning Outcomes
-By the end of the module, learners will:
+By the end of the module, participants will be able to:
 
 1. Assess options and choices around fundamental algorithms and data structures using Big-O notation.
-2. Develop comfort with recursive functions.
-3. Decide on appropriate data structures
-4. Take a client-led problem and translate it into an optimization problem.
-5. Identify why code is running slowly and know how to improve its performance.
+2. Use recursive functions.
+3. Select appropriate data structures
+4. Translate a client-led problem into an optimization problem.
+5. Identify why code is running slowly to improve its performance.
 
-## Logistics
-
-### Course Contacts
-**Questions can be submitted to the #questions channel on Slack**
+## Contacts
+**Questions can be submitted to the _#cohort-3-help_ channel on Slack**
 
 * Technical Facilitator: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
 * Learning Support Staff: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
 
-### Delivery instructions
-The workshop will be held over three weeks, three days a week. Two of the three days will be 2 hours long and the last day will be 3 hours. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
+## Delivery of the Learning Module
+This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `./06_cohort_three/live_code`.
 
-There will be a live coding component in most classes. Students are expected to follow along with the coding and ask questions throughout.
+Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
+ 
+Participants are encouraged to engage actively during the learning module. They key to developing the core skills in each learning module is through practice. The more participants engage in coding along with the instructional team, and applying the skills in each module, the more likely it is that these skills will solidify. 
 
-## Delivery of Module
-The module will run synchronously three times a week on Zoom. The first three days are used as "lectures" and will last a maximum of 3 hours. During this time, the Technical Facilitator will introduce the concepts for the week. The last day is used as an optional, asynchronous work period. The work periods will also last for up to 3 hours. During the work period, a Technical Facilitator or Learning Support staff will be present on Zoom to assist learners reach the intended learning outcomes.
+## Schedule
 
-### How the Technical Facilitator will deliver
-The Technical Facilitators will introduce the concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. All Technical Facilitators will also upload any live coding files to this repository for any learners to revisit under `./05_cohort_three/live_code`.
-
-### Expectations
-Learners are encouraged to be active participants while coding and are encouraged to ask questions throughout the module.
-
-### Requirements
-* Learners are not expected to have any coding experience, we designed the learning content for beginners.
-* Learners are encouraged to ask questions and collaborate with others to enhance learning.
-* Learners must have a computer and an internet connection to participate in online activities.
-* Learners must have VSCode installed with the following extensions: 
-    * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-    * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* Learners must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
-* We expect learners to have completed the [onboarding repo](https://github.com/UofT-DSI/onboarding/tree/main/onboarding_documents).
-* Webcam is optional although highly encouraged. We understand that not everyone may have the space at home to have the camera on.
-
-
-### Lesson Schedule
-
-| Lesson | Topic                                                       | Resources  |
+| Live Learning Session | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
 | 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/1_motivation_big_o.ipynb) |
 | 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/2_ds_search_sort.ipynb) |
 | 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
 | 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
 | 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
+
+## Requirements
+* Participants are not expected to have any coding experience; the learning content has been designed for beginners.
+* Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
+* Participants must have a computer and an internet connection to participate in online activities.
+* Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
+* We expect participants to have completed the instructions mentioned in the [onboarding repo](https://github.com/UofT-DSI/onboarding/).
+* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
+* Participants must have VSCode installed with the following extensions: 
+    * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+    * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+## Assignments
+
+Participants should review the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) for instructions on how to complete assignments in this module.
+
+| Assessment       | Description          | Due Date |
+|------------------|----------------------|----------|
+| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_1.ipynb) | DSA coding practice  | TBD |
+| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_2.ipynb) | mock interview       | TBD |
+
+## Resources
+Feel free to use the following as resources:
 
 ### Textbooks
 
@@ -89,25 +85,8 @@ The course content, slides, and recommended problems follow these two textbooks.
 * Cormen, T. H. (Ed.). (2009). *Introduction to algorithms (3rd ed).* MIT Press.
   * We won't cover the majority of this textbook. Many topics are too advanced and it goes into a lot of detail. 
 
-## Marking Scheme
-| Assessment       | Description          | Due Date |
-|------------------|----------------------|----------|
-| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_1.ipynb) | DSA coding practice  | TBD |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_2.ipynb) | mock interview       | TBD |
-
-**How to submit assignments, late policy, academic integrity.**
-Please submit your assignment by uploading the PDFs to your Google Drive folder used for assignment submissions.
-
-Late policy: Everyone has a 24-hour grace period available in total for both assignments. Meaning if you submit the first assignment 12 hours late, you can submit the second assignment 12 
-hours late with no penalty. Or if you submit the first assignment on time, you can submit the second assignment up to 24 hours late. After using your grace period time, there will be a 20% 
-penalty for 24 hours, and a 100% penalty after that. 
-
-If there are any extenuating circumstances, please contact the course Technical Facilitator as soon as possible for accommodations. 
-
-## Resources
-Feel free to use the following as resources:
-
 ### Documents
+
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [Sorting Cheatsheet](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)
 - [Visual Go - Graph Traversal](https://visualgo.net/en/dfsbfs?slide=2)
