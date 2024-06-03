@@ -1,7 +1,7 @@
 # Technical Facilitator Playbook
 
 ## How do you interact with the repo?
-The Technical Facilitator will deliver the content in the `/01_slides` directory. You are encouraged to live code with participants during live sessions. Please ensure that live coding files are uploaded to a new directory called `/live_code` under `/06_cohort_three` in this repository using a new branch. Please open a pull request for it to be merged.
+The Technical Facilitator will deliver the content in the `/01_materials/slides` directory. You are encouraged to live code with participants during live sessions. Please ensure that live coding files are uploaded to a new directory called `/live_code` under `/06_cohort_three` in this repository using a new branch. Please open a pull request for it to be merged.
 
 ## How does the module flow?
 The module is organized into 4 main directories:
@@ -9,9 +9,9 @@ The module is organized into 4 main directories:
 2. Assignments
 3. Homework
 
-The `/01_slides` directory contains the live learning session slides.
+The `/01_materials/slides` directory contains the live learning session slides.
 
-The `/02_assignments` contains assignments participants should submit for evaluation as  `complete` or `incomplete`. The assignments measure a participant's achievement of the learning outcomes, and help technical facilitators determine if a participant has successfully completed the learning module. 
+The `/02_activities/assignments` contains assignments participants should submit for evaluation as  `complete` or `incomplete`. The assignments measure a participant's achievement of the learning outcomes, and help technical facilitators determine if a participant has successfully completed the learning module. 
 
 The `/03_homework` directory contains homework participants can complete to further develop and practice the skills covered in a learning module. Homework is optional, but participants are encouraged to complete as much as they can.
 
@@ -19,16 +19,16 @@ The `/03_homework` directory contains homework participants can complete to furt
 
 | Live Learning Session | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
-| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/1_motivation_big_o.ipynb) |
-| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/2_ds_search_sort.ipynb) |
-| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
+| 1      | Motivation and Big-O Notation                               | [Slides](./01_materials/slides/1_motivation_big_o.ipynb) |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides](./01_materials/slides/2_ds_search_sort.ipynb) |
+| 3      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
 
 ### Week 2
 
 | Live Learning Session | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
-| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
-| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
+| 4      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
+| 5      | Recursive Data Structures                                   | [Slides](./01_materials/slides/3_recursion.ipynb) |
 
 ## How do you assign assignments?
 Technical Facilitators are encouraged to introduce assignments as early as possible in the learning module. The Technical Facilitator should describe the assignment to participants and explain how the topics covered in the module will equip them with the knowledge and skills to complete the assignment.
