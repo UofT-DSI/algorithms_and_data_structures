@@ -37,7 +37,7 @@ By the end of the module, participants will be able to:
 * Learning Support Staff: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
 
 ## Delivery of the Learning Module
-This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `./06_cohort_three/live_code`.
+This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_materials/slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `./06_cohort_three/live_code`.
 
 Optional work periods are to be used to seek help from peers, the Learning Support team, and to work through the homework and assignments in the learning module, with access to live help. Content is not facilitated, but rather this time should be driven by participants. We encourage participants to come to these work periods with questions and problems to work through. 
  
@@ -47,11 +47,11 @@ Participants are encouraged to engage actively during the learning module. They 
 
 | Live Learning Session | Topic                                                       | Resources  |
 |--------|-------------------------------------------------------------|------------|
-| 1      | Motivation and Big-O Notation                               | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/1_motivation_big_o.ipynb) |
-| 2      | Data Structures, Sorting, and Searching                     | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/2_ds_search_sort.ipynb) |
-| 3      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
-| 4      | Recursion              				                             | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/3_recursion.ipynb) |
-| 5      | Recursive Data Structures                                   | [Slides](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/01_slides/4_recursive_ds.ipynb) |
+| 1      | Motivation and Big-O Notation                               | [Slides](./01_materials/slides/1_motivation_big_o.ipynb) |
+| 2      | Data Structures, Sorting, and Searching                     | [Slides](./01_materials/slides/2_ds_search_sort.ipynb) |
+| 3      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
+| 4      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
+| 5      | Recursive Data Structures                                   | [Slides](./01_materials/slides/4_recursive_ds.ipynb) |
 
 ## Requirements
 * Participants are not expected to have any coding experience; the learning content has been designed for beginners.
@@ -70,8 +70,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment       | Description          | Due Date |
 |------------------|----------------------|----------|
-| [Assignment 1](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_1.ipynb) | DSA coding practice  | TBD |
-| [Assignment 2](https://github.com/UofT-DSI/algorithms_and_data_structures/blob/main/02_assignments/assignment_2.ipynb) | mock interview       | TBD |
+| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice  | TBD |
+| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | mock interview       | TBD |
 
 ## Resources
 Feel free to use the following as resources:
@@ -110,25 +110,26 @@ The course content, slides, and recommended problems follow these two textbooks.
 
 ```markdown
 .
-├── 01_slides
-├── 02_assignments
-├── 03_homework
-├── 04_instructional_team
+├── .github
+├── 01_materials
+├── 02_activities
+├── 03_instructional_team
+├── 04_cohort_three
+├── .gitignore
 ├── LICENSE
 ├── README.md
 └── steps_to_ask_for_help.png
 ```
 
-* **slides:** Course slides as interactive notebooks (`.ipynb` files)
-* **html slides:** Course slides as HTML files that can be downloaded and viewed in a web browser
-* **pdf slides:** Course slides as PDF files
-* **live_coding:** Notebooks from class live coding sessions
-* **homework:** Optional homework to practice concepts covered in class
-* **assignments:** Graded assignments
-* **instructors:** Instructions for the Technical Facilitator on what to teach
-* **additional resources:** Additional materials not covered by the module
-* README: This file!
-* .gitignore: Files to exclude from this folder, specified by the Technical Facilitator
+* **.github**: Contains issue templates and pull request templates for the repository.
+* **materials**: Module slides and interactive notebooks (.ipynb files) used during learning sessions.
+* **activities**: Contains graded assignments, exercises, and homework to practice concepts covered in the learning module.
+* **instructional_team**: Resources for the instructional team.
+* **cohort_three**: Additional materials and resources for cohort three.
+* **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
+* **LICENSE**: The license for this repository.
+* **README**: This file.
+* **steps_to_ask_for_help.png**: Guide on how to ask for help.
 
 ## Acknowledgement
 
