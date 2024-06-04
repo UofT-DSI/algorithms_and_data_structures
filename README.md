@@ -130,8 +130,3 @@ The course content, slides, and recommended problems follow these two textbooks.
 * **LICENSE**: The license for this repository.
 * **README**: This file.
 * **steps_to_ask_for_help.png**: Guide on how to ask for help.
-
-## Acknowledgement
-
-We wish to acknowledge this land on which the University of Toronto operates. For thousands of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
-
