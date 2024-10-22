@@ -54,8 +54,8 @@ Participants are encouraged to engage actively during the learning module. They 
 | 5      | Recursive Data Structures                                   | [Slides](./01_materials/slides/4_recursive_ds.ipynb) |
 
 ## Requirements
-* Participants are not expected to have any coding experience; the learning content has been designed for beginners.
-* Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
+* Participants are expected to have completed Shell, Git, and Python learning modules.
+* Participants are encouraged to ask questions, and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
 * Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect participants to have completed the instructions mentioned in the [onboarding repo](https://github.com/UofT-DSI/onboarding/).
