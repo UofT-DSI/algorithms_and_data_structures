@@ -70,8 +70,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment       | Description          | Due Date |
 |------------------|----------------------|----------|
-| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice  | Friday, July 19, 2024 (11:59pm) |
-| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | mock interview       | Sunday, July 21, 2024 (11:59pm) |
+| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice  | Friday, November 15, 2024 (11:59pm) |
+| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | mock interview       | Monday, November 18, 2024 (11:59pm) |
 
 ## Resources
 Feel free to use the following as resources:
