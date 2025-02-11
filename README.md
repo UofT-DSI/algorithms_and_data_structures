@@ -51,8 +51,8 @@ Participants are encouraged to engage actively during the learning module. They 
 | 2      | Data Structures, Sorting, and Searching                     | [Slides](./01_materials/slides/2_ds_search_sort.ipynb) |
 | 3      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
 | 4      | Recursive Data Structures    	                             | [Slides](./01_materials/slides/4_recursive_ds.ipynb) |
-| 5      | Extra Toppics                                               |  - |
-| 6      | Extra Toppics                                               |  - |
+| 5      | Extra Topics                                               |  - |
+| 6      | Extra Topics                                               |  - |
 
 ## Requirements
 * Participants are expected to have completed Shell, Git, and Python learning modules.
