@@ -31,10 +31,10 @@ By the end of the module, participants will be able to:
 5. Identify why code is running slowly to improve its performance.
 
 ## Contacts
-**Questions can be submitted to the _#cohort-3-help_ channel on Slack**
+**Questions can be submitted to the _#cohort-5-help_ channel on Slack**
 
-* Technical Facilitator: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
-* Learning Support Staff: **{Name}** {Pronouns}. Emails to the Technical Facilitator can be sent to {first_name.last_name}@mail.utoronto.ca.
+* Technical Facilitator: **{Salaar Liaqat}**. Messages to the Technical Facilitator can be sent on Slack.
+* Learning Support Staff: **{Tiyani, Emma Teng, and Aditya}**. Messages to the Learning Support Staff can be sent on Slack.
 
 ## Delivery of the Learning Module
 This module will include live learning sessions and optional, asynchronous work periods. During live learning sessions, the Technical Facilitator will introduce and explain key concepts and demonstrate core skills. Learning is facilitated during this time. Before and after each live learning session, the instructional team will be available for questions related to the core concepts of the module. The Technical Facilitator will introduce concepts through a collaborative live coding session using the Python notebooks found under `/01_materials/slides`. The Technical Facilitator will also upload live coding files to this repository for participants to revisit under `./06_this_cohort/live_code`.
@@ -50,8 +50,9 @@ Participants are encouraged to engage actively during the learning module. They 
 | 1      | Motivation and Big-O Notation                               | [Slides](./01_materials/slides/1_motivation_big_o.ipynb) |
 | 2      | Data Structures, Sorting, and Searching                     | [Slides](./01_materials/slides/2_ds_search_sort.ipynb) |
 | 3      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
-| 4      | Recursion              				                             | [Slides](./01_materials/slides/3_recursion.ipynb) |
-| 5      | Recursive Data Structures                                   | [Slides](./01_materials/slides/4_recursive_ds.ipynb) |
+| 4      | Recursive Data Structures    	                             | [Slides](./01_materials/slides/4_recursive_ds.ipynb) |
+| 5      | Extra Toppics                                               |  - |
+| 6      | Extra Toppics                                               |  - |
 
 ## Requirements
 * Participants are expected to have completed Shell, Git, and Python learning modules.
@@ -70,8 +71,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment       | Description          | Due Date |
 |------------------|----------------------|----------|
-| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice  | Friday, November 15, 2024 (11:59pm) |
-| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | mock interview       | Monday, November 18, 2024 (11:59pm) |
+| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice  | Friday, February 21 2025 (11:59pm) |
+| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | mock interview       | Tuesday, February 25 2025 (11:59pm) |
 
 ## Resources
 Feel free to use the following as resources:
