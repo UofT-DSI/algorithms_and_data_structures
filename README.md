@@ -136,7 +136,7 @@ The course content, slides, and recommended problems follow these two textbooks.
 - Try searching in the DSI Microcredentials Slack help channel for whether a similar query has been posted
 - If the question has not yet been answered, post your question!
   - Describe your overall goals, the context, and the specific details of what you were trying to accomplish
-  - Make sure to **copy and paste** your code, your error message
+  - Make sure to copy and paste your code, your error message
   - Copying and pasting helps:
     1. Your peers and teaching team quickly try out your code
     2. Others to find your question in the future
