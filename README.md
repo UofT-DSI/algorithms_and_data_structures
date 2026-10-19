@@ -35,10 +35,10 @@ By the end of the module, participants will be able to:
 
 ## Contacts
 
-**Questions can be submitted to the _#mlf1-help_ channel on Slack**
+**Questions can be submitted to the _#mlf2-help_ channel on Slack**
 
 * Technical Facilitator: **{Fred Song}**. Messages to the Technical Facilitator can be sent on Slack.
-* Learning Support Staff: **{Tiyani and E.Fantinatti}**. Messages to the Learning Support Staff can be sent on Slack.
+* Learning Support Staff: **{Tianyi Liu}**. Messages to the Learning Support Staff can be sent on Slack.
 
 ## Delivery of the Learning Module
 
@@ -77,8 +77,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment                                                  | Description         | Due Date                        |
 | ----------------------------------------------------------- | ------------------- | ------------------------------- |
-| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice | Monday, June 22 2026 (11:59pm) |
-| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | Mock interview      | Monday, June 29 2026 (11:59pm) |
+| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice | Monday, October 26th 2026 (11:59pm) |
+| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | Mock interview      | Monday, November 2nd 2026 (11:59pm) |
 
 ## Resources
 
