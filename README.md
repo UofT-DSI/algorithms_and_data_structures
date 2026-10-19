@@ -35,10 +35,10 @@ By the end of the module, participants will be able to:
 
 ## Contacts
 
-**Questions can be submitted to the _#mlf1-help_ channel on Slack**
+**Questions can be submitted to the _#mlf2-help_ channel on Slack**
 
 * Technical Facilitator: **{Fred Song}**. Messages to the Technical Facilitator can be sent on Slack.
-* Learning Support Staff: **{Tiyani and E.Fantinatti}**. Messages to the Learning Support Staff can be sent on Slack.
+* Learning Support Staff: **{Tianyi Liu}**. Messages to the Learning Support Staff can be sent on Slack.
 
 ## Delivery of the Learning Module
 
@@ -77,8 +77,8 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment                                                  | Description         | Due Date                        |
 | ----------------------------------------------------------- | ------------------- | ------------------------------- |
-| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice | Monday, June 22 2026 (11:59pm) |
-| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | Mock interview      | Monday, June 29 2026 (11:59pm) |
+| [Assignment 1](./02_activities/assignments/assignment_1.ipynb) | DSA coding practice | Monday, October 26th 2026 (11:59pm) |
+| [Assignment 2](./02_activities/assignments/assignment_2.ipynb) | Mock interview      | Monday, November 2nd 2026 (11:59pm) |
 
 ## Resources
 
@@ -136,7 +136,7 @@ The course content, slides, and recommended problems follow these two textbooks.
 - Try searching in the DSI Microcredentials Slack help channel for whether a similar query has been posted
 - If the question has not yet been answered, post your question!
   - Describe your overall goals, the context, and the specific details of what you were trying to accomplish
-  - Make sure to **copy and paste** your code, your error message
+  - Make sure to copy and paste your code, your error message
   - Copying and pasting helps:
     1. Your peers and teaching team quickly try out your code
     2. Others to find your question in the future
